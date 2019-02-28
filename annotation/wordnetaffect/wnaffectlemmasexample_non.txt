@@ -1,0 +1,554 @@
+trust,surprise## the wonders of modern science   ##wonder
+trust,surprise## a small token in admiration of your works   ##admiration
+sadness## his opinion carries great weight   ##weight
+sadness## the progression implied an increasing weightiness of the items listed   ##weight
+sadness## bowed down by the weight of responsibility   ##weight
+sadness## he placed two weights in the scale pan   ##weight
+trust## he was quick to point out his wife's failings   ##weakness
+trust## in spite of their weakness the group remains active   ##weakness
+trust## his weakness increased as he became older   ##weakness
+trust## the weakness of the span was overlooked until it collapsed   ##weakness
+trust## the weakness of the dollar against the yen   ##weakness
+trust## he has a weakness for chocolate   ##weakness
+trust## an agreeable warmth in the house   ##warmth
+anger## he took offence at my question   ##offense
+anger## a long record of crimes   ##offense
+anticipation## the convulsions of the stock market   ##turmoil
+joy## a narrow victory   ##triumph
+joy## the general always gets credit for his army's victory   ##triumph
+joy## clinched a victory   ##triumph
+joy## convincing victory   ##triumph
+joy## the agreement was a triumph for common sense   ##triumph
+anticipation,fear## the matter remained in suspense for several years   ##suspense
+anticipation,fear## the play kept the audience in suspense   ##suspense
+anticipation## he made a great splash and then disappeared   ##stir
+sadness## he tried to express his sorrow at her loss   ##sorrow
+sadness## he drank to drown his sorrows   ##sorrow
+sadness## he wrote a note expressing his regret   ##sorrow
+sadness## to his rue, the error cost him the game   ##sorrow
+sadness## her death was a great grief to John   ##sorrow
+sadness## she tired of his perpetual sadness   ##sorrow
+trust## the best results are generally obtained by inserting the needle into the point of maximum tenderness   ##tenderness
+trust## after taking a cold, rawness of the larynx and trachea come on   ##tenderness
+trust## he had trouble expressing the affection he felt   ##tenderness
+trust## the child won everyone's heart   ##tenderness
+trust## the warmness of his welcome made us feel right at home   ##tenderness
+fear## they still talk about the sinking of the Titanic   ##sinking
+fear## after several hours of sinking an unexpected rally rescued the market   ##sinking
+fear## he could not control the sinking of his legs   ##sinking
+fear## with a sinking heart   ##sinking
+fear## a sinking feeling in the pit of my stomach   ##sinking
+disgust## one mistake brought shame to all his family   ##shame
+disgust## suffered the ignominy of being sent to prison   ##shame
+disgust## it's a pity he couldn't do it   ##shame
+fear## he moved off into the darkness   ##shadow
+fear## a ghostly apparition at midnight   ##shadow
+fear## a shadow over his happiness   ##shadow
+fear## there wasn't a trace of evidence for the claim   ##shadow
+fear## a tincture of condescension   ##shadow
+fear## he felt secure in his father's shadow   ##shadow
+fear## he received little recognition working in the shadow of his father   ##shadow
+fear## the poor child was his mother's shadow   ##shadow
+anticipation## a sensation of touch   ##sensation
+anticipation## anticipation produced in me a sensation somewhere between hope and fear   ##sensation
+anticipation## the news caused a sensation   ##sensation
+anticipation## in the dark he had to depend on touch and on his senses of smell and hearing   ##sensation
+fear## panic in the stock market   ##scare
+fear## a war scare   ##scare
+fear## a bomb scare led them to evacuate the building   ##scare
+joy## the chef tasted the sauce with great satisfaction   ##satisfaction
+joy## dull repetitious work gives no gratification   ##satisfaction
+joy## to my immense gratification he arrived on time   ##satisfaction
+joy## we were unable to get satisfaction from the local store   ##satisfaction
+joy## the full and final satisfaction of the claim   ##satisfaction
+joy## the satisfaction of their demand for better services   ##satisfaction
+surprise,fear## care had aged him   ##fear
+surprise,fear## they hushed it up out of fear of public reaction   ##fear
+surprise,fear## the fear of God   ##fear
+surprise,fear## the Chinese reverence for the dead   ##fear
+surprise,fear## the French treat food with gentle reverence   ##fear
+surprise,fear## his respect for the law bordered on veneration   ##fear
+surprise,fear## he stared over the edge with a feeling of awe   ##awe
+fear## he submitted his resignation as of next month   ##resignation
+fear## they were protected until the capitulation of the fort   ##surrender
+disgust,fear## the painting that others found so beautiful was a horror to him   ##horror
+trust## it differs in that respect   ##regard
+trust## his attentiveness to her wishes   ##regard
+trust## he spends without heed to the consequences   ##regard
+trust## give him my kind regards   ##regard
+trust## my best wishes   ##regard
+trust## he fixed his paternal gaze on me   ##regard
+trust## it is held in esteem   ##regard
+trust## a man who has earned high regard   ##regard
+trust## she mistook his manly regard for love   ##regard
+trust## he inspires respect   ##regard
+trust## she lost all respect for him   ##regard
+trust## his deference to her wishes was very flattering   ##respect
+trust## be sure to give my respects to the dean   ##respect
+trust## their children were never very strong on obedience   ##respect
+trust## he went to law school out of respect for his father's wishes   ##respect
+trust## in deference to your wishes   ##respect
+trust## out of respect for his privacy   ##respect
+joy## he takes pride in his son's success   ##pride
+trust## my own preference is for good literature   ##preference
+trust## the Irish have a penchant for blarney   ##preference
+trust## a predilection for expensive cars   ##preference
+trust## his sexual preferences   ##preference
+trust## showed a Marxist orientation   ##preference
+trust## given my druthers, I'd eat cake   ##preference
+trust## the candy left him with a bad taste   ##taste
+trust## the melon had a delicious taste   ##taste
+trust## arrogance and lack of taste contributed to his rapid success   ##taste
+trust## to ask at that particular time was the ultimate in bad taste   ##taste
+trust## he got a taste of life on the wild side   ##taste
+trust## she enjoyed her brief taste of independence   ##taste
+trust## take a taste--you'll like it   ##taste
+trust## his cold deprived him of his sense of taste   ##taste
+trust## a wine tasting   ##taste
+anger## his temper sparked like damp firewood   ##pique
+anger## whether he praised or cursed me depended on his temper at the time   ##temper
+anger## he was in a bad humor   ##temper
+anger## his temper was well known to all his employees   ##temper
+anger## any food produced irritation of the stomach   ##irritation
+fear## he was the terror of the neighborhood   ##terror
+fear## he used terror to make them confess   ##terror
+sadness## the tyrant's oppression of the people   ##oppression
+sadness## the misery and wretchedness of those slums is intolerable   ##misery
+sadness## she was exhausted by her misery and grief   ##misery
+disgust## several of his submissions were rejected by publishers   ##submission
+disgust## what was the date of submission of your proposal?   ##submission
+disgust## the union was brought into submission   ##submission
+disgust## his submission to the will of God   ##submission
+trust## his long commitment to public service   ##loyalty
+trust## they felt no loyalty to a losing team   ##loyalty
+trust,joy## his love for his work   ##love
+trust,joy## children need a lot of love   ##love
+trust,joy## the theater was her first love   ##love
+trust,joy## he has a passion for cock fighting   ##love
+trust,joy## their love left them indifferent to their surroundings   ##love
+trust,joy## she was his first love   ##love
+trust,joy## it was 40 love   ##love
+trust,joy## his lovemaking disgusted her   ##love
+trust,joy## he hadn't had any love in months   ##love
+trust,joy## he has a very complicated love life   ##love
+trust## I've always had a liking for reading   ##liking
+trust## she developed a liking for gin   ##liking
+joy## a joy to behold   ##joy
+joy## the pleasure of his company   ##joy
+joy## the new car is a delight   ##joy
+fear## he suffered an attack of nerves   ##nervousness
+disgust## cherish their official political freedom with fierce jealousy"-Paul Blanshard   ##jealousy
+disgust## he opposed a policy of American isolation   ##isolation
+disgust## not everyone regards humility as a virtue   ##humility
+disgust## he was filled with humility at the sight of the Pope   ##humility
+disgust## he could not conceal his hostility   ##hostility
+disgust## he could no longer contain his hostility   ##hostility
+anticipation## it revived their hope of winning the pennant   ##hope
+anticipation## in spite of his troubles he never gave up hope   ##hope
+anticipation## there is little or no promise that he will recover   ##hope
+anticipation## he was their best hope for a victory   ##hope
+anger## so great was his harassment that he wanted to destroy his tormentors   ##harassment
+anger## an agony of doubt   ##torment
+anger## the torments of the damned   ##torment
+disgust## holding a grudge   ##grudge
+disgust## settling a score   ##grudge
+disgust## she made good marks in algebra   ##score
+disgust## grade A milk   ##score
+disgust## what was your score on your homework?   ##score
+disgust## he studied the score of the sonata   ##score
+disgust## the score was 7 to 0   ##score
+disgust## a score were sent out but only one returned   ##score
+disgust## don't do it on my account   ##score
+disgust## the paper was rejected on account of its length   ##score
+disgust## he tried to blame the victim but his success on that score was doubtful   ##score
+disgust## he didn't know the score   ##score
+disgust## add it to my score and I'll settle later   ##score
+disgust## the winning score came with less than a minute left to play   ##score
+disgust## calling his seduction of the girl a `score' was a typical example of male slang   ##score
+trust## he was overwhelmed with gratitude for their help   ##gratitude
+trust## the victor's grace in treating the vanquished   ##goodwill
+sadness## he struck a match to dispel the gloom   ##gloom
+sadness## gloom pervaded the office   ##gloom
+anger## hell hath no fury like a woman scorned   ##fury
+anger## his face turned red with rage   ##fury
+anger## the storm's violence   ##fury
+anger## she fell into a rage and refused to answer   ##rage
+anger## his rage for fame destroyed him   ##rage
+anger## the sea hurled itself in thundering rage against the rocks   ##rage
+anger## he always follows the latest fads   ##rage
+anger## it was all the rage that season   ##rage
+anger## trying to drive through a blizzard is the height of folly   ##madness
+anger## adjusting to an insane society is total foolishness   ##madness
+anger## poetry is a sort of divine madness   ##madness
+anger## her constant complaints were the main source of his frustration   ##frustration
+joy,anticipation,fear## a frisson of surprise shot through him   ##shiver
+joy,anticipation,fear## the shaking of his fingers as he lit his pipe   ##quiver
+joy,anticipation,fear## they got a great bang out of it   ##thrill
+joy,anticipation,fear## what a boot!   ##thrill
+joy,anticipation,fear## he got a quick rush from injecting heroin   ##thrill
+joy,anticipation,fear## he does it for kicks   ##thrill
+joy,anticipation,fear## the thrills of space travel   ##thrill
+sadness## the nakedness of the landscape   ##desolation
+trust## they have the illusion that I am very wealthy   ##fancy
+trust## he had a fondness for whiskey   ##fancy
+anger## he had a fit   ##fit
+anger## she threw a tantrum   ##fit
+anger## he made a scene   ##fit
+anger## a paroxysm of giggling   ##fit
+anger## a fit of coughing   ##fit
+anger## convulsions of laughter   ##fit
+anger## I admired the fit of her coat   ##fit
+anger## a burst of applause   ##fit
+anger## a fit of housecleaning   ##fit
+anger## the police returned to the scene of the crime   ##scene
+anger## their parting was a sad scene   ##scene
+anger## the most desirable feature of the park are the beautiful views   ##scene
+anger## the political picture is favorable   ##scene
+anger## the religious scene in England has changed in the last century   ##scene
+anger## the first act has three scenes   ##scene
+anger## he painted scenes from everyday life   ##scene
+anger## figure 2 shows photographic and schematic views of the equipment   ##scene
+anger## the perfect setting for a ghost story   ##scene
+anger## they worked all night painting the scenery   ##scene
+anticipation## in a fever of resentment   ##fever
+trust## the outcome was in his favor   ##favor
+trust## that style is in favor this season   ##favor
+joy## he could hardly conceal his excitement when she agreed   ##excitement
+joy## his face was flushed with excitement and his hands trembled   ##excitement
+joy## he tried to calm those who were in a state of extreme inflammation   ##excitement
+joy## he looked forward to the excitements of the day   ##excitement
+joy## enthusiasm for his program is growing   ##enthusiasm
+disgust## he is currently suffering financial embarrassments   ##embarrassment
+disgust## the outcome of the vote was an embarrassment for the liberals   ##embarrassment
+disgust## an embarrassment of riches   ##embarrassment
+anticipation## they built a car that runs on electricity   ##electricity
+anticipation## the stage crackled with electricity whenever she was on it   ##electricity
+trust,fear## New York traffic is a constant concern   ##worry
+trust,fear## it's a major worry   ##worry
+trust,fear## his worry over the prospect of being fired   ##worry
+trust,fear## it is not work but worry that kills   ##worry
+trust,fear## he wanted to die and end his troubles   ##worry
+trust,fear## one trouble after another delayed the job   ##trouble
+trust,fear## what's the problem?   ##trouble
+trust,fear## he didn't want to make a fuss   ##trouble
+trust,fear## they had labor trouble   ##trouble
+trust,fear## a spot of bother   ##trouble
+trust,fear## what is the trouble?   ##trouble
+trust,fear## heart trouble   ##trouble
+trust,fear## I went to a lot of trouble   ##trouble
+trust,fear## he won without any trouble   ##trouble
+trust,fear## had difficulty walking   ##trouble
+trust,fear## finished the test only with great difficulty   ##trouble
+trust,fear## he got several girls in trouble   ##trouble
+disgust## my dislike of him was instinctive   ##dislike
+trust## their devotion to each other was beautiful   ##devotion
+trust## the devotion of his time and wealth to science   ##devotion
+trust## he returned to his devotions   ##devotion
+fear## in the depths of despair   ##despair
+fear## they were rescued from despair at the last minute   ##despair
+fear## courage born of desperation   ##despair
+fear## they moaned in despair and dismay   ##despair
+fear## one harsh word would send her into the depths of despair   ##despair
+sadness## a low moved in over night bringing sleet and snow   ##depression
+sadness## he left the impression of his fingers in the soft mud   ##depression
+sadness## depression of the space bar on the typewriter   ##depression
+fear## he gives me the creeps   ##creeps
+fear## a crawl was all that the injured man could manage   ##creeps
+fear## the traffic moved at a creep   ##creeps
+disgust## he was held in contempt   ##contempt
+disgust## the despite in which outsiders were held is legendary   ##contempt
+disgust## she wanted neither favor nor despite   ##despite
+disgust## a person of unflagging conscience   ##conscience
+disgust## he has no conscience about his cruelty   ##conscience
+disgust## the army retreated in confusion   ##confusion
+disgust## a confusion of impressions   ##confusion
+disgust## the confusion of tongues at the Tower of Babel   ##confusion
+disgust## he changed his name in order to avoid confusion with the notorious outlaw   ##confusion
+trust,fear## the safety of the ship is the captain's concern   ##concern
+trust,fear## She felt strong concern for those less fortunate   ##concern
+trust,fear## he bought his brother's business   ##concern
+trust,fear## a small mom-and-pop business   ##concern
+trust,fear## a racially integrated business concern   ##concern
+fear## no medical care was required   ##care
+fear## the old car needs constant attention   ##care
+fear## he exercised caution in opening the door   ##care
+fear## he handled the vase with care   ##care
+fear## his major care was the illness of his wife   ##care
+fear## he is in the care of a bodyguard   ##care
+fear## he wrote the manual on car care   ##care
+joy## the absence of fences created a mysterious intimacy in which no one knew privacy   ##intimacy
+joy## their closeness grew as the night wore on   ##intimacy
+disgust## he had to undergo one humiliation after another   ##humiliation
+trust## he held the children spellbound with magic tricks and other fascinations   ##fascination
+trust## the medical fraternity   ##brotherhood
+trust## you have to join the union in order to get a job   ##brotherhood
+sadness## he had a bad case of the blues   ##blues
+sadness## he had eyes of bright blue   ##blues
+sadness## she was wearing blue   ##blues
+sadness## the Union army was a vast blue   ##blues
+sadness## he shot an arrow into the blue   ##blues
+joy## with his classmates he felt a sense of belonging   ##belonging
+joy## the sudden knock floored him   ##bang
+joy## he took a bash right in his face   ##bang
+joy## he got a bang on the head   ##bang
+joy## that song was his first hit and marked the beginning of his career   ##bang
+joy## that new Broadway show is a real smasher   ##bang
+joy## the party went with a bang   ##bang
+joy## he gave the ball a powerful kick   ##boot
+joy## the team's kicking was excellent   ##boot
+joy## the wrestler's charge carried him past his adversary   ##charge
+joy## the battle began with a cavalry charge   ##charge
+joy## he was arrested on a charge of larceny   ##charge
+joy## the admission charge   ##charge
+joy## the battery needed a fresh charge   ##charge
+joy## a confidential mission to London   ##charge
+joy## his charge was deliver a message   ##charge
+joy## the teacher led her charges across the street   ##charge
+joy## the charges against the estate   ##charge
+joy## Freud thought of cathexis as a psychic analog of an electrical charge   ##charge
+joy## they submitted their charges at the end of each month   ##charge
+joy## the judge's charge to the jury   ##charge
+joy## the newspaper published charges that Jones was guilty of drunken driving   ##charge
+joy## this cartridge has a powder charge of 50 grains   ##charge
+joy## in his haste to leave he forgot his book   ##rush
+joy## come back after the rush   ##rush
+joy## the linebackers were ready to stop a rush   ##rush
+joy## he heard the flush of a toilet   ##flush
+joy## there was a little gush of blood   ##flush
+joy## she attacked him with an outpouring of words   ##flush
+joy## I have a gripe about the service here   ##kick
+joy## a sidecar is a smooth drink but it has a powerful kick   ##kick
+joy## the kick must be synchronized with the arm movements   ##kick
+joy## the swimmer's kicking left a wake behind him   ##kick
+trust## attachment to a formal agenda   ##attachment
+trust## adherence to a fat-free diet   ##attachment
+trust## the adhesion of Seville was decisive   ##attachment
+surprise## he looked at me in astonishment   ##amazement
+trust## he gave the project his blessing   ##approval
+trust## his decision merited the approval of any sensible person   ##approval
+trust## although she fussed at them, she secretly viewed all her children with approval   ##approval
+trust## he bought it on approval   ##approval
+trust## words of approval seldom passed his lips   ##approval
+fear## the student looked around the examination room with apprehension   ##dread
+anticipation## each of them had their own anticipations   ##anticipation
+anticipation## an indicator of expectancy in development   ##anticipation
+anger## washing dishes was a nuisance before we got a dish washer   ##annoyance
+anger## a bit of a bother   ##annoyance
+anger## he's not a friend, he's an infliction   ##annoyance
+anger## the aggravation of her condition resulted from lack of care   ##aggravation
+trust## in your heart you know it is true   ##heart
+trust## her story would melt your bosom   ##heart
+trust## he stood still, his heart thumping wildly   ##heart
+trust## he kept fighting on pure spunk   ##heart
+trust## you haven't got the heart for baseball   ##heart
+trust## it is in the center of town   ##heart
+trust## they ran forward into the heart of the struggle   ##heart
+trust## they were in the eye of the storm   ##heart
+trust## the gist of the prosecutor's argument   ##heart
+trust## the heart and soul of the Republican Party   ##heart
+trust## the nub of the story   ##heart
+trust## he had a change of heart   ##heart
+trust## he drew a heart and called it a valentine   ##heart
+trust## a five-pound beef heart will serve six   ##heart
+trust## he led the queen of hearts   ##heart
+trust## hearts were trumps   ##heart
+disgust## his treatment of the children is an abomination   ##abomination
+anger## he ignored their teases   ##teasing
+anger## his ribbing was gentle but persistent   ##teasing
+anger## the parody was just a form of teasing   ##teasing
+joy## the stopping point of each round was signaled by a bell   ##close
+joy## the market was up at the finish   ##close
+joy## they were playing better at the close of the season   ##close
+joy## in conclusion I want to say...   ##close
+disgust,fear## there was too much anger and disturbance   ##upset
+disgust,fear## she didn't realize the upset she caused me   ##upset
+disgust,fear## his carelessness could have caused an ecological upset   ##upset
+disgust,fear## she was unprepared for this sudden overthrow of their normal way of living   ##upset
+disgust,fear## the doctor prescribed some medicine for the disorder   ##upset
+disgust,fear## everyone gets stomach upsets from time to time   ##upset
+disgust,fear## he was badly bruised by the upset of his sled at a high speed   ##upset
+disgust,fear## the biggest upset since David beat Goliath   ##upset
+joy## he emptied the contents of his pockets   ##content
+joy## the two groups were similar in content   ##content
+joy## the gas tank has a capacity of 12 gallons   ##content
+joy## he relaxed in sleepy contentedness   ##content
+joy## they could read to their heart's content   ##content
+joy## a moving picture of a train is more dramatic than a still picture of the same subject   ##content
+disgust## the lecture was beyond his most strenuous graspings   ##grasping
+fear## the Romans had no pity for the defeated   ##defeated
+sadness## you have four downs to gain ten yards   ##down
+sadness## the stock market fell to a new low   ##low
+fear## they prey on the hopes of the desperate   ##desperate
+disgust## she knew many repellents to his advances   ##repellent
+disgust## they devote their lives to caring for the sick   ##sick
+fear## vigorous worrying finally loosened the saw   ##worrying
+trust## friendlies came to their rescue   ##friendly
+sadness## the powers of darkness   ##dark
+sadness## he was in the dark concerning their intentions   ##dark
+sadness## his lectures dispelled the darkness   ##dark
+joy## her screaming attracted the neighbors   ##screaming
+joy## he ducked at the screechings of shells   ##screaming
+joy## he heard the scream of the brakes   ##screaming
+anticipation## a lofty aspirant   ##hopeful
+anticipation## two executive hopefuls joined the firm   ##hopeful
+anticipation## the audience was full of Madonna wannabes   ##hopeful
+disgust## the platoon ran into a pack of hostiles   ##hostile
+disgust## the evil that men do lives after them   ##evil
+disgust## attempts to explain the origin of evil in the world   ##evil
+sadness## the urban poor need assistance   ##poor
+sadness## the death of his wife caused him great distress   ##suffering
+joy## it's all over but the shouting   ##cheering
+disgust## they fumbled around in total darkness   ##black
+disgust## in the black of night   ##black
+disgust## the widow wore black   ##black
+fear## he gave the ball a shy to the first baseman   ##shy
+fear## whitewater rafting is not for the timid   ##timid
+sadness## take the bad with the good   ##bad
+surprise## The economy, stupid!   ##stupid
+sadness## I hate to hear the crying of a child   ##weeping
+sadness## she was in tears   ##weeping
+surprise## he gave a howl of pain   ##howling
+surprise## howls of laughter   ##howling
+surprise## their howling had no effect   ##howling
+surprise## the death rattle   ##rattling
+trust## he didn't make a move to help   ##move
+trust## his first move was to hire a lawyer   ##move
+trust## they say that three moves equal one fire   ##move
+trust## the reflex motion of his eyebrows revealed his surprise   ##move
+trust## movement is a sign of life   ##move
+trust## an impatient move of his hand   ##move
+trust## gastrointestinal motility   ##move
+trust## police controlled the motion of the crowd   ##move
+trust## the movement of people from the farms to the cities   ##move
+trust## his move put him directly in my path   ##move
+trust## the strike lasted more than a month before it was settled   ##strike
+trust## the strike was scheduled to begin at dawn   ##strike
+trust## he finished with three strikes in the tenth frame   ##strike
+trust## this pitcher throws more strikes than balls   ##strike
+fear## bombers were put on alert during the crisis   ##alert
+anger,surprise## what the devil   ##devil
+anger,surprise## the deuce with it   ##devil
+anger,surprise## the dickens you say   ##devil
+anger,surprise## he chased the young hellions out of his yard   ##devil
+trust## it sounds good but what's the catch?   ##catch
+trust## the catch was only 10 fish   ##catch
+trust## he shared his catch with the others   ##catch
+trust## he used a book as a stop to hold the door open   ##catch
+trust## he played catch with his son in the backyard   ##catch
+trust## Mays made the catch with his back to the plate   ##catch
+trust## he made a grab for the ball before it landed   ##catch
+trust## Martin's snatch at the bridle failed and the horse raced away   ##catch
+trust## the infielder's snap and throw was a single motion   ##catch
+trust## the policeman on the beat got credit for the collar   ##catch
+trust## his smile was part of his appeal to her   ##charm
+trust## he whispered a spell as he moved his hands   ##charm
+trust## inscribed around its base is a charm in Balinese   ##charm
+trust## they waited at the entrance to the garden   ##entrance
+trust## beggars waited just outside the entryway to the cathedral   ##entrance
+trust## she made a grand entrance   ##entrance
+joy## flowers added a note of cheerfulness to the drab room   ##cheer
+joy## profound religious impulses   ##urge
+joy## why this urge to travel?   ##urge
+joy## he is a man who enjoys his comfort   ##comfort
+joy## she longed for the comfortableness of her armchair   ##comfort
+joy## his presence was a consolation to her   ##comfort
+joy## a life of luxury and ease   ##comfort
+joy## he had all the material comforts of this world   ##comfort
+joy## his friendship was a comfort   ##comfort
+joy## a padded chair was one of the room's few comforts   ##comfort
+joy## it gave comfort to the enemy   ##comfort
+joy## the bust of Napoleon stood on a console   ##console
+joy## second place was no consolation to him   ##solace
+trust,fear## an interest in music   ##interest
+trust,fear## for your sake   ##interest
+trust,fear## died for the sake of his country   ##interest
+trust,fear## in the interest of safety   ##interest
+trust,fear## in the common interest   ##interest
+trust,fear## they said nothing of great interest   ##interest
+trust,fear## primary colors can add interest to a room   ##interest
+trust,fear## how much interest do you pay on your mortgage?   ##interest
+trust,fear## they have interests all over the world   ##interest
+trust,fear## a stake in the company's future   ##interest
+trust,fear## the iron interests stepped up production   ##interest
+trust,fear## sailing is her favorite pastime   ##interest
+trust,fear## his main pastime is gambling   ##interest
+trust,fear## he counts reading among his interests   ##interest
+trust,fear## they criticized the boy for his limited pursuits   ##interest
+disgust## he had to close the window against the flurries   ##flurry
+disgust## there was a flurry of chicken feathers   ##flurry
+fear## the traffic advanced at a crawl   ##crawl
+fear## it was a narrow defeat   ##defeat
+fear## the army's only defeat   ##defeat
+fear## they suffered a convincing licking   ##defeat
+fear## a ship in distress   ##distress
+fear## she was the classic maiden in distress   ##distress
+fear## the patient appeared to be in distress   ##distress
+fear## Originally distress was a landlord's remedy against a tenant for unpaid rents or property damage but now the landlord is given a landlord's lien   ##distress
+anger## she wore dun   ##dun
+anger## incense filled the room   ##incense
+disgust## don't get in a stew   ##stew
+disgust## he's in a sweat about exams   ##stew
+sadness,anger## a plague of grasshoppers   ##plague
+sadness,anger## those children are a damn plague   ##plague
+anticipation## he is the beneficiary of a generous trust set up by his father   ##trust
+anticipation## he wrote the paper with considerable reliance on the work of other scientists   ##trust
+anticipation## he put more trust in his own two legs than in the gun   ##trust
+anticipation## the experience destroyed his trust and personal dignity   ##trust
+anticipation## they set up the trust in the hope of gaining a monopoly   ##trust
+anticipation## he cherished the faith of a good woman   ##trust
+anticipation## the doctor-patient relationship is based on trust   ##trust
+anticipation## he took me into his confidence   ##trust
+anticipation## he betrayed their trust   ##trust
+anticipation## a man of many desires   ##desire
+joy## she writes books for children   ##kid
+joy## they're just kids   ##kid
+joy## `tiddler' is a British term for youngster   ##kid
+joy## kid gloves   ##kid
+joy## they had three children   ##kid
+joy## they were able to send their kids to college   ##kid
+trust,joy## dogs, foxes, and the like", "we don't want the likes of you around here   ##like
+trust,joy## We'll not see his like again   ##like
+trust,joy## I can't tolerate people of his ilk   ##like
+joy## a good wallow in the water   ##wallow
+fear## he wooed her with the confident dash of a cavalry officer   ##dash
+fear## he is preparing for the 100-yard dash   ##dash
+fear## he made a dash for the door   ##dash
+anticipation## he longed for the touch of her hand   ##touch
+anticipation## the cooling touch of the night air   ##touch
+anticipation## only sight and touch enable us to locate objects in the space around us   ##touch
+anticipation## there was a touch of sarcasm in his tone   ##touch
+anticipation## he detected a ghost of a smile on her face   ##touch
+anticipation## this room needs a woman's touch   ##touch
+anticipation## at his touch the room filled with lights   ##touch
+anticipation## this dish could use a touch of garlic   ##touch
+anticipation## the pilot made contact with the base   ##touch
+anticipation## he got in touch with his colleagues   ##touch
+anticipation## he has a touch of rheumatism   ##touch
+anticipation## he watched the beggar trying to make a touch   ##touch
+anticipation## she likes the touch of silk on her skin   ##touch
+anticipation## the surface had a greasy feeling   ##touch
+anticipation## he has a master's touch   ##touch
+anticipation## this piano has a wonderful touch   ##touch
+anticipation## the aftermath of war   ##wake
+anticipation## in the wake of the accident no one knew how many had been injured   ##wake
+anticipation## the motorboat's wake capsized the canoe   ##wake
+anticipation## there's no weeping at an Irish wake   ##wake
+anticipation## the heating system wasn't working   ##heat
+anticipation## they have radiant heating   ##heat
+surprise## he collected dry sticks for a campfire   ##stick
+surprise## the kid had a candied apple on a stick   ##stick
+surprise## fever left him weak on his sticks   ##stick
+surprise## cinnamon sticks   ##stick
+surprise## a stick of dynamite   ##stick
+surprise## the policy so far is all stick and no carrot   ##stick
+surprise## he loved to solve chessmate puzzles   ##puzzle
+surprise## that's a real puzzler   ##puzzle
+surprise## in the old days a policeman walked a beat and knew all his people by name   ##beat
+surprise## he could feel the beat of her heart   ##beat
+surprise## the piece has a fast rhythm   ##beat
+surprise## the conductor set the beat   ##beat
+surprise## he heard the beat of a drum   ##beat
+surprise## the cox raised the beat   ##beat
+surprise## the signal was two beats on the steam pipe   ##beat
+surprise## don't put on airs with me   ##pose
+disgust## stayed home in a sulk   ##sulk

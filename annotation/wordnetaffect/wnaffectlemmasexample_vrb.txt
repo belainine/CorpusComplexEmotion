@@ -1,0 +1,1105 @@
+trust,fear## Many teenagers idolized the Beatles   ##worship
+trust,fear## Many Hindus worship Shiva   ##worship
+trust,fear## They worship in the traditional manner   ##worship
+trust,surprise## He wondered who had built this beautiful church   ##wonder
+trust,surprise## I wonder whether this was the right thing to do   ##wonder
+trust,surprise## she wondered whether it would snow tonight   ##wonder
+trust,surprise## We marvelled at the child's linguistic abilities   ##wonder
+sadness## He biased his presentation so as to please the share holders   ##weight
+joy## The champion prevailed, though it was a hard fight   ##triumph
+joy## Who cannot exult in Spring?   ##triumph
+surprise## The news really surprised me   ##surprise
+surprise## She surprised the couple   ##surprise
+surprise## He surprised an interesting scene   ##surprise
+anticipation## stir the soup   ##stir
+anticipation## stir my drink   ##stir
+anticipation## stir the soil   ##stir
+anticipation## He shifted in his seat   ##stir
+anticipation## stimulate my appetite   ##stir
+anticipation## excite the audience   ##stir
+anticipation## stir emotions   ##stir
+anticipation## These stories shook the community   ##stir
+anticipation## the civil war shook the country   ##stir
+anticipation## A stirring movie   ##stir
+anticipation## I was touched by your kind letter of sympathy   ##stir
+anticipation## raise the specter of unemployment   ##stir
+anticipation## he conjured wild birds in the air   ##stir
+anticipation## call down the spirits from the mountain   ##stir
+anticipation## Stir nuts into the dough   ##stir
+sadness## I regret I can't come to the party   ##regret
+sadness## I regret to say that you did not gain admission to Harvard   ##regret
+fear## He sank to his knees   ##sinking
+fear## The Japanese sank American ships in Pearl Harbor   ##sinking
+fear## He sank into nirvana   ##sinking
+fear## He sank into bed   ##sinking
+fear## She subsided into the chair   ##sinking
+fear## The sun dipped below the horizon   ##sinking
+fear## The setting sun sank below the tree line   ##sinking
+fear## The real estate market fell off   ##sinking
+fear## He slumped onto the couch   ##sinking
+fear## My spirits sank   ##sinking
+fear## She sank her fingers into the soft sand   ##sinking
+fear## He buried his head in her lap   ##sinking
+disgust## he dishonored his family by committing a serious crime   ##shame
+disgust## She shamed him into making amends   ##shame
+fear## The police are shadowing her   ##shadow
+fear## This year's debt dwarfs that of last year   ##shadow
+fear## The stranger who hangs around the building frightens me   ##scare
+fear## Ghosts could never affright her   ##scare
+fear## dashed by the refusal   ##scare
+surprise,fear## I fear she might get aggressive   ##fear
+surprise,fear## I fear the winters in Moscow   ##fear
+surprise,fear## We should not fear the Communists!   ##fear
+surprise,fear## I fear I won't make it to your wedding party   ##fear
+surprise,fear## I fear the results of the final exams   ##fear
+surprise,fear## Fear God as your father   ##fear
+surprise,fear## We venerate genius   ##fear
+surprise,fear## The famous professor awed the undergraduates   ##awe
+fear## The last Taleban fighters finally surrendered   ##surrender
+fear## The squatters had to surrender the building after the police moved in   ##surrender
+disgust## It galls me that we lost the suit   ##gall
+trust## She views this quite differently from me   ##regard
+trust## I consider her to be shallow   ##regard
+trust## I don't see the situation quite as negatively as you do   ##regard
+trust## This new ruling affects your business   ##regard
+trust## I respect his judgement   ##respect
+trust## We prize his creativity   ##respect
+trust## honor your parents!   ##respect
+trust## The government oppresses political activists   ##crush
+trust## crush an aluminum can   ##crush
+trust## squeeze a lemon   ##crush
+trust## Agassi beat Becker in the tennis championship   ##crush
+trust## We beat the competition   ##crush
+trust## Harvard defeated Yale in the last football game   ##crush
+trust## The car crushed the toy   ##crush
+trust## She was crushed by his refusal of her invitation   ##crush
+trust## The death of her son smashed her   ##crush
+trust## jam a toe   ##crush
+trust## Martin Luther King tried to break down racial discrimination   ##crush
+trust## The plastic bottle crushed against the wall   ##crush
+joy## He prides himself on making it into law school   ##pride
+trust## Can you taste the garlic?   ##taste
+trust## Try these new crackers   ##taste
+trust## Sample the regional dishes   ##taste
+trust## This tastes of nutmeg   ##taste
+trust## We tasted wines last night   ##taste
+trust## The ex-slave tasted freedom shortly before she died   ##taste
+anger## Her tactless remark offended me   ##pique
+anger## temper glass   ##temper
+anger## temper steel   ##temper
+anger## she tempered her criticism   ##temper
+fear## The students panicked when told that final exams were less than a week away   ##panic
+fear## The mere thought of an isolation cell panicked the prisoners   ##panic
+disgust## She hurt me when she did not include me among her guests   ##spite
+disgust## This remark really bruised my ego   ##spite
+trust## I really care about my work   ##caring
+trust## I don't care   ##caring
+trust## The nurse was caring for the wounded   ##caring
+trust## Do you care to try this dish?   ##caring
+trust## Would you like to come along to the movies?   ##caring
+trust## I can deal with this crew of workers   ##caring
+trust## This blender can't handle nuts   ##caring
+trust## She managed her parents' affairs after they got too old   ##caring
+trust## I worry about my grades   ##caring
+trust,joy## I love French food   ##love
+trust,joy## She loves her boss and works hard for him   ##love
+trust,joy## I love cooking   ##love
+trust,joy## She loves her husband deeply   ##love
+trust,joy## This student sleeps with everyone in her dorm   ##love
+trust,joy## Adam knew Eve   ##love
+trust,joy## Were you ever intimate with this man?   ##love
+trust## I like jogging   ##liking
+trust## She likes to read Russian novels   ##liking
+trust## I like my nephews   ##liking
+trust## How did you like the President's speech last night?   ##liking
+trust## I'd like a beer now!   ##liking
+anger## The scandalous behavior of this married woman shocked her friends   ##outrage
+anger## desecrate a cemetery   ##outrage
+anger## violate the sanctity of the church   ##outrage
+anger## profane the name of God   ##outrage
+anger## The woman was raped on her way home at night   ##outrage
+anticipation## I trust you will behave better from now on   ##hope
+anticipation## I hope she understands that she cannot expect a raise   ##hope
+anticipation## I am still hoping that all will turn out well   ##hope
+anticipation## I hope to have finished this work by tomorrow evening   ##hope
+disgust## I hate Mexican food   ##hate
+disgust## She detests politicians   ##hate
+anger## The children tormented the stuttering teacher   ##torment
+anger## The sinners will be tormented in Hell, according to the Bible   ##torment
+joy## She relished her fame and basked in her glory   ##relish
+disgust## The home team scored many times   ##score
+disgust## He hit a home run   ##score
+disgust## He hit .300 in the past season   ##score
+disgust## score the clay before firing it   ##score
+disgust## Harry finally seduced Sally   ##score
+disgust## Did you score last night?   ##score
+disgust## Harry made Sally   ##score
+disgust## She scored high on the SAT   ##score
+disgust## He scored a 200   ##score
+disgust## grade tests   ##score
+disgust## score the SAT essays   ##score
+disgust## mark homework   ##score
+anger## Rage against the dying of the light!   ##rage
+joy,anticipation,fear## The children are shivering--turn on the heat!   ##shiver
+joy,anticipation,fear## The news of the city's surrender chilled the soldiers   ##chill
+joy,anticipation,fear## Chill the food   ##chill
+joy,anticipation,fear## The air cooled considerably after the thunderstorm   ##chill
+joy,anticipation,fear## His nostrils palpitated   ##quiver
+joy,anticipation,fear## the candle flickered   ##quiver
+joy,anticipation,fear## the city pulsated with music and excitement   ##quiver
+joy,anticipation,fear## The men were thrilled by a loud whistle blow   ##thrill
+joy,anticipation,fear## he was thrilled by the speed and the roar of the engine   ##thrill
+joy,anticipation,fear## The children were thrilled at the prospect of going to the movies   ##thrill
+joy,anticipation,fear## He was inebriated by his phenomenal success   ##thrill
+trust## I can't see him on horseback!   ##fancy
+trust## I can see what will happen   ##fancy
+trust## I can see a risk in this strategy   ##fancy
+trust## She fancied a necklace that she had seen in the jeweler's window   ##fancy
+anger## This suits my needs   ##fit
+anger## This piece won't fit into the puzzle   ##fit
+anger## Does this paper meet the requirements for the degree?   ##fit
+anger## fit a dress   ##fit
+anger## He fitted other pieces of paper to his cut-out   ##fit
+anger## Can you fit the toy into the box?   ##fit
+anger## This man can't fit himself into our work environment   ##fit
+anger## The two stories don't agree in many details   ##fit
+anger## The handwriting checks with the signature on the check   ##fit
+anger## The suspect's fingerprints don't match those on the gun   ##fit
+anger## How does this shirt fit?   ##fit
+anger## The expedition was equipped with proper clothing, food, and other necessities   ##fit
+anger## Match my sweater   ##fit
+trust## he favors his second daughter   ##favor
+trust## The local team was favored   ##favor
+trust,fear## I worry about my job   ##worry
+trust,fear## I cannot sleep--my daughter's health is worrying me   ##worry
+trust,fear## I worry about the second Germanic consonant shift   ##worry
+trust,fear## the dog worried his bone   ##worry
+trust,fear## The old man worried his beads   ##worry
+trust,fear## This book upset me   ##trouble
+trust,fear## A troubling thought   ##trouble
+trust,fear## Sorry to trouble you, but...   ##trouble
+trust,fear## She was rather perturbed by the news that her father was seriously ill   ##trouble
+trust,fear## He did not trouble to call his mother on her birthday   ##trouble
+trust,fear## Don't bother, please   ##trouble
+disgust## I really dislike this salesman   ##dislike
+disgust## This spoilt food disgusts me   ##disgust
+disgust## The pornographic pictures sickened us   ##disgust
+sadness,fear## These news depressed her   ##dismay
+sadness,fear## The bad state of her child's health demoralizes her   ##dismay
+sadness,fear## I was horrified at the thought of being late for my interview   ##dismay
+sadness,fear## The news of the executions horrified us   ##dismay
+fear## Don't despair--help is on the way!   ##despair
+fear## The crocodile was crawling along the riverbed   ##creeps
+fear## ..stead of sneaking around spying on the neighbor's house   ##creeps
+fear## ivy crept over the walls of the university buildings   ##creeps
+disgust## He despises the people he has to work for   ##disdain
+disgust## The professor scorns the students who don't catch on immediately   ##disdain
+disgust## She spurned his advances   ##disdain
+trust,fear## There were lots of questions referring to her talk   ##concern
+trust,fear## My remark pertained to your earlier comments   ##concern
+fear## Too much spicy food cloyed his appetite   ##pall
+fear## pall the beer   ##pall
+fear## wine and beer can pall   ##pall
+fear## the course palled on her   ##pall
+fear## I'm so tired of your mother and her complaints about my food   ##pall
+joy## This book belongs to me   ##belonging
+joy## This student somehow doesn't belong   ##belonging
+joy## Where do these books belong?   ##belonging
+joy## Let's put health care where it belongs--under the control of the government   ##belonging
+joy## Where do these books go?   ##belonging
+joy## The whales belong among the mammals   ##belonging
+joy## They belong to the same political party   ##belonging
+joy## the uniform looks like it belonged to a museum collection   ##belonging
+joy## These pages don't belong   ##belonging
+joy## slam the ball   ##bang
+joy## One of them banged the sash of the window nearest my bed   ##bang
+joy## He slammed the door shut   ##bang
+joy## The window banged shut   ##bang
+joy## The old man banged around the house   ##bang
+joy## Bullets spanged into the trees   ##bang
+joy## boot your computer   ##boot
+joy## he saw Jess charging at him with a pitchfork   ##charge
+joy## he charged the director with indifference   ##charge
+joy## Will I get charged for this service?   ##charge
+joy## We were billed for 4 nights in the hotel, although we stayed only 3 nights   ##charge
+joy## The car tore down the street   ##charge
+joy## He came charging into my office   ##charge
+joy## He was appointed deputy manager   ##charge
+joy## She was charged with supervising the creation of a concordance   ##charge
+joy## The suspect was charged with murdering his wife   ##charge
+joy## The defense attorney charged that the jurors were biased   ##charge
+joy## charge the wagon with hay   ##charge
+joy## he charged me $15   ##charge
+joy## After the second episode, she had to be committed   ##charge
+joy## he was committed to prison   ##charge
+joy## consign your baggage   ##charge
+joy## Will you pay cash or charge the purchase?   ##charge
+joy## The speaker charged up the crowd with his inflammatory remarks   ##charge
+joy## charge all weapons, shields, and banners   ##charge
+joy## He loaded his gun carefully   ##charge
+joy## load the camera   ##charge
+joy## point a gun   ##charge
+joy## He charged his weapon at me   ##charge
+joy## He charged her with cleaning up all the files over the weekend   ##charge
+joy## The teacher charged the children to memorize the poem   ##charge
+joy## We blamed the accident on her   ##charge
+joy## The tragedy was charged to her inexperience   ##charge
+joy## How much do you charge for lunch?   ##charge
+joy## This fellow charges $100 for a massage   ##charge
+joy## charge a conductor   ##charge
+joy## I need to charge my car battery   ##charge
+joy## The room was charged with tension and anxiety   ##charge
+joy## He rushed down the hall to receive his guests   ##rush
+joy## The cars raced down the street   ##rush
+joy## Don't rush me, please!   ##rush
+joy## We have to rush!   ##rush
+joy## hurry--it's late!   ##rush
+joy## The psychologist raced the rats through a long maze   ##rush
+joy## the infection precipitated a high fever and allergic reactions   ##rush
+joy## The girl blushed when a young man whistled as she walked by   ##flush
+joy## The garbage flushed down the river   ##flush
+joy## the sky flushed with rosy splendor   ##flush
+joy## level the ground   ##flush
+joy## flush the wound with antibiotics   ##flush
+joy## purge the old gas tank   ##flush
+joy## sluice the earth   ##flush
+joy## flush the meadows   ##flush
+joy## The boy kicked the dog   ##kick
+joy## Kick the door down   ##kick
+joy## The gun kicked back into my shoulder   ##kick
+joy## kick a habit   ##kick
+joy## give up alcohol   ##kick
+joy## He kicked the extra point after touchdown   ##kick
+joy## My mother complains all day   ##kick
+joy## She has a lot to kick about   ##kick
+anger## The news angered him   ##anger
+anger## He angers easily   ##anger
+fear## The empty house alarmed him   ##alarm
+fear## We alerted the new neighbors to the high rate of burglaries   ##alarm
+trust## she looked on this affair as a joke   ##esteem
+trust## He thinks of himself as a brilliant musician   ##esteem
+trust## He is reputed to be intelligent   ##esteem
+disgust## I loathe that man   ##loathing
+disgust## She abhors cats   ##loathing
+disgust,sadness## The paper discredited the politician with its nasty commentary   ##discredited
+disgust,sadness## This newspaper story discredits the politicians   ##discredited
+disgust,sadness## She assumed indifference, even though she was seething with anger   ##shamed
+disgust,sadness## he feigned sleep   ##shamed
+disgust,sadness## He feigned that he was ill   ##shamed
+disgust,sadness## He shammed a headache   ##shamed
+anger## This drug aggravates the pain   ##aggravated
+anger## arouse pity   ##provoked
+anger## raise a smile   ##provoked
+anger## evoke sympathy   ##provoked
+anger## Her behavior provoked a quarrel between the couple   ##provoked
+anger## He is known to harry his staff when he is overworked   ##provoked
+anger## This man harasses his female co-workers   ##provoked
+anticipation## The liberal party pushed for reforms   ##agitated
+anticipation## She is crusading for women's rights   ##agitated
+anticipation## The Dean is pushing for his favorite candidate   ##agitated
+anticipation## The chemist shook the flask vigorously   ##agitated
+anticipation## My hands were shaking   ##agitated
+anger## Mosquitoes buzzing in my ear really bothers me   ##annoying
+anger## It irritates me that she never closes the door after she leaves   ##annoying
+anger## Aspirin irritates my stomach   ##irritating
+anger## irritate the glands of a leaf   ##irritating
+anger## The children teased the boy because of his stammer   ##pestering
+anger## The children teased the new teacher   ##teasing
+anger## Don't ride me so hard over my failure   ##teasing
+anger## His fellow workers razzed him when he wore a jacket and tie   ##teasing
+anger## The advertisement is intended to tease the customers   ##teasing
+anger## She has a way of teasing men with her flirtatious behavior   ##teasing
+anger## tease tissue for microscopic examinations   ##teasing
+anger## tease wool   ##teasing
+anger## the flirting man teased the young woman   ##teasing
+anger## harass the enemy   ##harassed
+anger## vex the subject of the death penalty   ##vexed
+anger## This beats me!   ##vexed
+anger## Got me--I don't know the answer!   ##vexed
+anger## a vexing problem   ##vexed
+anger## This question really stuck me   ##vexed
+anger## His behavior really miffed me   ##miffed
+anger## Again, the cat had made on the expensive rug   ##pissed
+anger## The ship steamed off into the Pacific   ##steamed
+anger## The rain forest was literally steaming   ##steamed
+anger## her indifference to his amorous advances really steamed the young man   ##steamed
+anger## steam-clean the upholstered sofa   ##steamed
+anger## just steam the vegetables   ##steamed
+anger## The sun burned his face   ##stung
+anger## A bee stung my arm yesterday   ##stung
+anger## They stuck me with the dinner bill   ##stung
+anger## I was stung with a huge tax bill   ##stung
+anger## The needle pricked his skin   ##stung
+anger## His remark stung her   ##stung
+trust## I approve of his educational policies   ##approved
+surprise## Your ability to speak six languages amazes me!   ##astonishing
+surprise## The drunken man staggered into the room   ##staggering
+surprise## He staggered along in the heavy snow   ##staggering
+surprise## stagger the chairs in the lecture hall   ##staggering
+surprise## She was staggered with bills after she tried to rebuild her house following the earthquake   ##staggering
+surprise## stun fish   ##stunned
+surprise## The news stunned her   ##stunned
+trust## She captured all the men's hearts   ##captivated
+trust## She charmed him into giving her all his money   ##charmed
+trust## These colors please the senses   ##delighted
+trust## a pleasing sensation   ##delighted
+trust## he delights in his granddaughter   ##delighted
+trust## The snake charmer fascinates the cobra   ##fascinating
+disgust,fear## His brother blocked him at every turn   ##embarrassed
+sadness## The glut of oil depressed gas prices   ##depressing
+sadness## The lack of rain had depressed the water level in the reservoir   ##depressing
+sadness## Depress the space key   ##depressing
+sadness## The rising inflation depressed the economy   ##depressing
+joy## Close the door   ##close
+joy## shut the window   ##close
+joy## The windows closed with a loud bang   ##close
+joy## The owners decided to move and to close the factory   ##close
+joy## My business closes every night at 8 P.M.   ##close
+joy## close up the shop   ##close
+joy## The meeting was closed with a charge by the chairman of the board   ##close
+joy## The concert closed with a nocturne by Chopin   ##close
+joy## We closed on the house on Friday   ##close
+joy## They closed the deal on the building   ##close
+joy## The stock market closed high this Friday   ##close
+joy## My new stocks closed at $59 last night   ##close
+joy## close with the enemy   ##close
+joy## Her arms closed around her long lost relative   ##close
+joy## The probe closed with the space station   ##close
+joy## Management closed ranks   ##close
+joy## Due to the accident, the road had to be closed for several hours   ##close
+joy## Can you close the cracks with caulking?   ##close
+joy## close the circuit   ##close
+joy## close a wound   ##close
+joy## close a book   ##close
+joy## close up an umbrella   ##close
+joy## The relief pitcher closed with two runs in the second inning   ##close
+disgust## you are confusing me with the other candidate   ##confusing
+disgust## I mistook her for the secretary   ##confusing
+disgust## These questions confuse even the experts   ##confusing
+disgust## This question completely threw me   ##confusing
+disgust## This question befuddled even the teacher   ##confusing
+disgust## The constant attention of the young man confused her   ##confusing
+disgust## She jumbles the words when she is supposed to write a sentence   ##confusing
+disgust## Her remarks confused the debate   ##confusing
+disgust## Their words obnubilate their intentions   ##confusing
+disgust,fear## She interrupted her pregnancy   ##broken
+disgust,fear## break a lucky streak   ##broken
+disgust,fear## break the cycle of poverty   ##broken
+disgust,fear## The figurine broke   ##broken
+disgust,fear## The freshly baked loaf fell apart   ##broken
+disgust,fear## You broke the alarm clock when you took it apart!   ##broken
+disgust,fear## He busted my radio!   ##broken
+disgust,fear## He broke the glass plate   ##broken
+disgust,fear## She broke the match   ##broken
+disgust,fear## offend all laws of humanity   ##broken
+disgust,fear## violate the basic laws or human civilization   ##broken
+disgust,fear## break a law   ##broken
+disgust,fear## break a promise   ##broken
+disgust,fear## The horses broke from the stable   ##broken
+disgust,fear## Three inmates broke jail   ##broken
+disgust,fear## Nobody can break out--this prison is high security   ##broken
+disgust,fear## The clouds broke after the heavy downpour   ##broken
+disgust,fear## break into tears   ##broken
+disgust,fear## erupt in anger   ##broken
+disgust,fear## stop the project   ##broken
+disgust,fear## break off the negotiations   ##broken
+disgust,fear## Someone broke in while I was on vacation   ##broken
+disgust,fear## They broke into my car and stole my radio!   ##broken
+disgust,fear## who broke into my account last night?   ##broken
+disgust,fear## The horse was tough to break   ##broken
+disgust,fear## I broke in the new intern   ##broken
+disgust,fear## This sentence violates the rules of syntax   ##broken
+disgust,fear## She bettered her own record   ##broken
+disgust,fear## break a record   ##broken
+disgust,fear## The auction house would not disclose the price at which the van Gogh had sold   ##broken
+disgust,fear## The actress won't reveal how old she is   ##broken
+disgust,fear## bring out the truth   ##broken
+disgust,fear## he broke the news to her   ##broken
+disgust,fear## unwrap the evidence in the murder case   ##broken
+disgust,fear## light broke over the horizon   ##broken
+disgust,fear## Voices broke in the air   ##broken
+disgust,fear## The engine finally went   ##broken
+disgust,fear## The car died on the road   ##broken
+disgust,fear## The bus we travelled in broke down on the way to town   ##broken
+disgust,fear## The coffee maker broke   ##broken
+disgust,fear## The engine failed on the way to town   ##broken
+disgust,fear## her eyesight went after the accident   ##broken
+disgust,fear## She had broken with the traditional patterns   ##broken
+disgust,fear## The ranks broke   ##broken
+disgust,fear## The surf broke   ##broken
+disgust,fear## soften a shock   ##broken
+disgust,fear## break a fall   ##broken
+disgust,fear## If the new teacher won't break, we'll add some stress   ##broken
+disgust,fear## The heat wave finally broke yesterday   ##broken
+disgust,fear## The flat plain was broken by tall mesas   ##broken
+disgust,fear## She finally broke herself of smoking cigarettes   ##broken
+disgust,fear## break cigarette smoking   ##broken
+disgust,fear## The first winter storm broke over New York   ##broken
+disgust,fear## Things have been breaking pretty well for us in the past few months   ##broken
+disgust,fear## His peccadilloes finally broke his marriage   ##broken
+disgust,fear## This play will either make or break the playwright   ##broken
+disgust,fear## The will was broken   ##broken
+disgust,fear## The business partners broke over a tax question   ##broken
+disgust,fear## The couple separated after 25 years of marriage   ##broken
+disgust,fear## My friend and I split up   ##broken
+disgust,fear## She was demoted because she always speaks up   ##broken
+disgust,fear## He was broken down to Sergeant   ##broken
+disgust,fear## My daughter's fancy wedding is going to break me!   ##broken
+disgust,fear## The slump in the financial markets smashed him   ##broken
+disgust,fear## The whales broke   ##broken
+disgust,fear## The wall collapsed   ##broken
+disgust,fear## The business collapsed   ##broken
+disgust,fear## The dam broke   ##broken
+disgust,fear## The roof collapsed   ##broken
+disgust,fear## The wall gave in   ##broken
+disgust,fear## The roof finally gave under the weight of the ice   ##broken
+disgust,fear## Kids were break-dancing at the street corner   ##broken
+disgust,fear## I had to break a $100 bill just to buy the candy   ##broken
+disgust,fear## The book dealer would not break the set   ##broken
+disgust,fear## The referee broke the boxers   ##broken
+disgust,fear## The lawn mower finally broke   ##broken
+disgust,fear## The gears wore out   ##broken
+disgust,fear## The old chair finally fell apart completely   ##broken
+disgust,fear## break a branch from a tree   ##broken
+disgust,fear## The skin broke   ##broken
+disgust,fear## The blade broke her skin   ##broken
+disgust,fear## News of her death broke in the morning   ##broken
+disgust,fear## We pause for station identification   ##broken
+disgust,fear## let's break for lunch   ##broken
+disgust,fear## break a circuit   ##broken
+disgust,fear## The simple vowels broke in many Germanic languages   ##broken
+disgust,fear## break an alibi   ##broken
+disgust,fear## break down a proof   ##broken
+disgust,fear## break the code   ##broken
+disgust,fear## Her voice broke to a whisper when she started to talk about her children   ##broken
+disgust,fear## Report the news as it develops   ##broken
+disgust,fear## These political movements recrudesce from time to time   ##broken
+disgust,fear## The glass cracked when it was heated   ##broken
+disgust,fear## his voice is breaking--he should no longer sing in the choir   ##broken
+disgust,fear## stock prices broke   ##broken
+disgust,fear## I broke my foot while playing hockey   ##broken
+disgust,fear## The patient's fever broke last night   ##broken
+disgust,fear## His resistance was broken   ##broken
+disgust,fear## a man broken by the terrible experience of near-death   ##broken
+disgust,fear## The hostile talks upset the peaceful relations between the two countries   ##upset
+disgust,fear## The cat knocked over the flower vase   ##upset
+disgust,fear## the clumsy customer turned over the vase   ##upset
+disgust,fear## he tumped over his beer   ##upset
+disgust,fear## The foreign team upset the local team   ##upset
+joy## He contented himself with one glass of beer per day   ##contented
+joy## I am contented   ##contented
+disgust## Do you comprehend the meaning of this letter?   ##grasping
+fear## You must overcome all difficulties   ##defeated
+fear## defeat your enemies   ##defeated
+fear## He overcame his shyness   ##defeated
+fear## He overcame his infirmity   ##defeated
+fear## Her anger got the better of her and she blew up   ##defeated
+fear## kill a motion   ##defeated
+fear## he shot down the student's proposal   ##defeated
+fear## Her boyfriend let her down when he did not propose marriage   ##disappointed
+fear## What ultimately frustrated every challenger was Ruth's amazing September surge   ##frustrated
+fear## foil your opponent   ##frustrated
+sadness,anger,fear## We should discourage this practice among our youth   ##discouraged
+sadness,anger,fear## I warned him not to go too far   ##discouraged
+sadness,anger,fear## I warn you against false assumptions   ##discouraged
+sadness,anger,fear## She warned him to be quiet   ##discouraged
+sadness## He downed three martinis before dinner   ##down
+sadness## She killed a bottle of brandy that night   ##down
+sadness## They popped a few beer after work   ##down
+sadness## Some people can down a pound of meat in the course of one meal   ##down
+sadness## the enemy landed several of our aircraft   ##down
+sadness## The policeman downed the heavily armed suspect   ##down
+sadness## The mugger knocked down the old lady after she refused to hand over her wallet   ##down
+sadness## refine one's style of writing   ##down
+trust## She committed herself to the work of God   ##devoted
+trust## give one's talents to a good cause   ##devoted
+trust## consecrate your life to the church   ##devoted
+trust## give thought to   ##devoted
+trust## give priority to   ##devoted
+trust## pay attention to   ##devoted
+trust## this land was devoted to mining   ##devoted
+disgust## The industrial wastes polluted the lake   ##foul
+disgust## The leaves clog our drains in the Fall   ##foul
+disgust## The water pipe is backed up   ##foul
+disgust## The townspeople defiled the river by emptying raw sewage into it   ##foul
+disgust## foul the water   ##foul
+disgust## The people revolted when bread prices tripled again   ##revolting
+disgust## After drinking too much, the students vomited   ##sick
+disgust## He purged continuously   ##sick
+disgust## The patient regurgitated the food we gave him last night   ##sick
+fear## The news of her child's illness distressed the mother   ##distressing
+fear## Don't touch my CDs!   ##disturbing
+fear## Don't interrupt me when I'm reading   ##disturbing
+fear## Don't disturb the patient's wounds by moving him too rapidly!   ##disturbing
+joy## Music can uplift your spirits   ##elated
+anticipation## The news electrified us   ##electrifying
+anticipation## electrify an appliance   ##electrifying
+disgust## He humiliated his colleague by criticising him in front of the boss   ##humiliated
+disgust## subdue one's appetites   ##mortified
+disgust## mortify the flesh   ##mortified
+disgust## the tissue around the wound necrosed   ##mortified
+anticipation## I am promoting the use of computers in the classroom   ##encouraging
+anticipation## His financial success encouraged him to look for a wife   ##encouraging
+joy## The book stimulated her imagination   ##exciting
+joy## This play stimulates   ##exciting
+joy## This movie usually arouses the male audience   ##exciting
+joy## excite the atoms   ##exciting
+joy## excite the neurons   ##exciting
+joy## The ads induced me to buy a VCR   ##stimulating
+joy## My children finally got me to buy a computer   ##stimulating
+joy## My wife made me buy a new sofa   ##stimulating
+joy## Coffee and tea stimulate me   ##stimulating
+joy## This herbal infusion doesn't stimulate   ##stimulating
+trust## The Swiss dealer offered $2 million for the painting   ##tender
+trust## tenderize meat   ##tender
+trust## The soup warmed slowly on the stove   ##warm
+trust## The blanket will warm you   ##warm
+anger## His behavior is maddening   ##maddening
+joy## After we relaxed, we just kidded around   ##jolly
+joy## The sun shone bright that day   ##beaming
+joy## The fire beamed on their faces   ##beaming
+joy## he beamed his approval   ##beaming
+joy## We cannot air this X-rated song   ##beaming
+joy## Her face glowed when she came out of the sauna   ##beaming
+joy## She was beaming with joy   ##beaming
+joy## Her face radiated with happiness   ##beaming
+sadness## The milk has soured   ##sour
+sadness## The wine worked   ##sour
+sadness## The cream has turned--we have to throw it out   ##sour
+sadness## his behavior grieves his mother   ##grieving
+sadness## She is mourning her dead child   ##mourning
+joy## he could do many things if he pleased   ##pleased
+joy## The waiters around her aim to please   ##pleased
+joy## she cried with pain when the doctor inserted the needle   ##screaming
+joy## I yelled to her from the window but she couldn't hear me   ##screaming
+joy## You don't have to yell--I can hear you just fine   ##screaming
+joy## Fighter planes are screaming through the skies   ##screaming
+disgust## She tends to put down younger women colleagues   ##demeaning
+disgust## His critics took him down after the lecture   ##demeaning
+disgust## This experience will humble him   ##humbling
+fear## Her boss intimidates her   ##intimidated
+disgust## detach the skin from the chicken before you eat it   ##detached
+disgust## detach a regiment   ##detached
+disgust## His retina detached and he had to be rushed into surgery   ##detached
+disgust## They isolated the political prisoners from the other inmates   ##isolated
+disgust## The chemist managed to isolate the compound   ##isolated
+disgust## The dentist sequesters the tooth he is working on   ##isolated
+disgust## The mountain range divides the two countries   ##separated
+disgust## He separated the fighting children   ##separated
+disgust## Moses parted the Red Sea   ##separated
+disgust## We distinguish several kinds of maple   ##separated
+disgust## divide the cake into three equal parts   ##separated
+disgust## The British carved up the Ottoman Empire after World War I   ##separated
+disgust## Separate the wheat from the chaff   ##separated
+disgust## How would you classify these pottery shards--are they prehistoric?   ##separated
+disgust## The friends separated after the party   ##separated
+disgust## The two pieces that we had glued separated   ##separated
+disgust## The road forks   ##separated
+sadness## He suffered the penalty   ##suffering
+sadness## Many saints suffered martyrdom   ##suffering
+sadness## She suffered a fracture in the accident   ##suffering
+sadness## He had an insulin shock after eating three candy bars   ##suffering
+sadness## She got a bruise on her leg   ##suffering
+sadness## He got his arm broken in the scuffle   ##suffering
+sadness## Every time her husband gets drunk, she suffers   ##suffering
+sadness## I cannot bear his constant criticism   ##suffering
+sadness## The new secretary had to endure a lot of unprofessional remarks   ##suffering
+sadness## he learned to tolerate the heat   ##suffering
+sadness## She stuck out two years in a miserable marriage   ##suffering
+sadness## His grades suffered   ##suffering
+sadness## Were you hurting after the accident?   ##suffering
+sadness## She is suffering from the hot weather   ##suffering
+sadness## She suffers from a tendency to talk too much   ##suffering
+sadness## meet a violent death   ##suffering
+sadness## suffer a terrible fate   ##suffering
+sadness## This author really suffers in translation   ##suffering
+disgust## The smell of the food turned the pregnant woman's stomach   ##nauseating
+disgust## The mold on the food sickened the diners   ##nauseating
+disgust## She fell sick last Friday, and now she is in the hospital   ##sickening
+disgust## This kind of food sickens me   ##sickening
+sadness## ladle the water out of the bowl   ##laden
+sadness## load a car   ##laden
+sadness## load the truck with hay   ##laden
+sadness## Jews were persecuted in the former Soviet Union   ##oppressed
+joy## ease the pain in your legs   ##comforting
+joy## everybody cheered the birthday boy   ##cheering
+joy## She tried to cheer up the disappointed child when he failed to win the spelling bee   ##cheering
+joy## The crowd cheered the demonstrating strikers   ##cheering
+fear## The skin disease scarred his face permanently   ##scared
+anticipation## The pages of the book began to yellow   ##yellow
+disgust## I was floored when I heard that I was promoted   ##shocking
+disgust## The news of the bombing shocked her   ##shocking
+disgust## shock grain   ##shocking
+disgust## The smoke blackened the ceiling   ##black
+disgust## The ceiling blackened   ##black
+surprise## She was dazzled by the bright headlights   ##dazed
+surprise## This boggles the mind!   ##flabbergasted
+sadness## She cried bitterly when she heard the news of his death   ##weeping
+sadness## The girl in the wheelchair wept with frustration when she could not get up the stairs   ##weeping
+surprise## wail in self-pity   ##howling
+surprise## howl with sorrow   ##howling
+surprise## The coyotes were howling in the desert   ##howling
+surprise## The wind was howling in the trees   ##howling
+surprise## The water roared down the chute   ##howling
+sadness## don't drill here, there's a gas pipe   ##bored
+sadness## drill a hole into the wall   ##bored
+sadness## drill for oil   ##bored
+sadness## carpenter bees are boring holes into the wall   ##bored
+trust## he just adored his wife   ##adoring
+trust## Will the new rules affect me?   ##affect
+trust## the medicine affects my heart rate   ##affect
+trust## This child impressed me as unusually mature   ##affect
+trust## This behavior struck me as odd   ##affect
+trust## The young chess player impressed her audience   ##impress
+trust## Mother tried to ingrain respect for our elders in us   ##impress
+trust## To make a batik, you impress a design with wax   ##impress
+trust## The men were shanghaied after being drugged   ##impress
+trust## How fast does your new car go?   ##move
+trust## We travelled from Rome to Naples by bus   ##move
+trust## The policemen went from door to door looking for the suspect   ##move
+trust## The soldiers moved towards the city in an attempt to take it before night fell   ##move
+trust## news travelled fast   ##move
+trust## Move those boxes into the corner, please   ##move
+trust## I'm moving my money to another bank   ##move
+trust## The director moved more responsibilities onto his new assistant   ##move
+trust## He moved his hand slightly to the right   ##move
+trust## We moved from Idaho to Nebraska   ##move
+trust## The basketball player moved from one team to another   ##move
+trust## We should go farther in this matter   ##move
+trust## She went through a lot of trouble   ##move
+trust## go about the world in a certain manner   ##move
+trust## Messages must go through diplomatic channels   ##move
+trust## she is always moving   ##move
+trust## the debate moved from family values to the economy   ##move
+trust## think before you act   ##move
+trust## We must move quickly   ##move
+trust## The governor should act on the new energy bill   ##move
+trust## The nanny acted quickly by grabbing the toddler and covering him with a wet towel   ##move
+trust## This moved me to sacrifice my career   ##move
+trust## Her fate moved us all   ##move
+trust## The chairman of the company told the salesmen to move the computers   ##move
+trust## The speech has to go through several more drafts   ##move
+trust## run through your presentation before the meeting   ##move
+trust## she moves in certain circles only   ##move
+trust## Can I go now?   ##move
+trust## The teacher struck the child   ##strike
+trust## the opponent refused to strike   ##strike
+trust## The boxer struck the attacker dead   ##strike
+trust## The car hit a tree   ##strike
+trust## He struck the table with his elbow   ##strike
+trust## The Germans struck Poland on Sept. 1, 1939   ##strike
+trust## We must strike the enemy's oil fields   ##strike
+trust## in the fifth inning, the Giants struck, sending three runners home to win the game 5 to 2   ##strike
+trust## The clock struck midnight   ##strike
+trust## Just when I entered, the clock struck   ##strike
+trust## We were hit by really bad weather   ##strike
+trust## He was stricken with cancer when he was still a teenager   ##strike
+trust## The earthquake struck at midnight   ##strike
+trust## The auto workers are striking for higher wages   ##strike
+trust## The employees walked out when their demand for better benefits was not met   ##strike
+trust## Light fell on her face   ##strike
+trust## The sun shone on the fields   ##strike
+trust## The light struck the golden necklace   ##strike
+trust## A strange sound struck my ears   ##strike
+trust## The horse finally struck a pace   ##strike
+trust## The pianist strikes a middle C   ##strike
+trust## strike `z' on the keyboard   ##strike
+trust## her comments struck a sour note   ##strike
+trust## strike an arc   ##strike
+trust## the archeologists chanced upon an old tomb   ##strike
+trust## she struck a goldmine   ##strike
+trust## The hikers finally struck the main path to the lake   ##strike
+trust## strike fire from the flintstone   ##strike
+trust## strike a match   ##strike
+trust## Please strike this remark from the record   ##strike
+trust## scratch that remark   ##strike
+trust## Panic struck me   ##strike
+trust## An interesting idea hit her   ##strike
+trust## A thought came to me   ##strike
+trust## The thought struck terror in our minds   ##strike
+trust## They were struck with fear   ##strike
+trust## he hit his fist on the table   ##strike
+trust## she struck her head on the low ceiling   ##strike
+trust## He assumes the lotus position   ##strike
+trust## She took her seat on the stage   ##strike
+trust## We took our seats in the orchestra   ##strike
+trust## She took up her position behind the tree   ##strike
+trust## strike a pose   ##strike
+trust## strike coins   ##strike
+trust## strike a medal   ##strike
+trust## strickle the grain in the measure   ##strike
+trust## The bullet struck her thigh   ##strike
+trust## The icy wind struck through our coats   ##strike
+trust## strike a balance   ##strike
+trust## strike a bargain   ##strike
+disgust## The will aliened the property to the heirs   ##alien
+disgust## She alienated her friends when she became fanatically religious   ##alien
+anger,surprise## rag that old tune   ##rag
+anger,surprise## The mother scolded the child for entering a stranger's car   ##rag
+anger,surprise## The deputy ragged the Prime Minister   ##rag
+anger,surprise## The customer dressed down the waiter for bringing cold soup   ##rag
+anger,surprise## rag ore   ##rag
+anger,surprise## Don't bother the professor while she is grading term papers   ##bother
+anger,surprise## The mere thought of her bothered him and made his heart beat faster   ##bother
+anger,surprise## We gravelled the driveway   ##gravel
+anger,surprise## devilled eggs   ##devil
+anticipation## The meteorologists are expecting rain for tomorrow   ##anticipate
+anticipation## Call the outcome of an election   ##anticipate
+anticipation## This composition anticipates Impressionism   ##anticipate
+trust## capture the essence of Spring   ##capture
+trust## capture an idea   ##capture
+trust## We finally got the suspect   ##capture
+trust## Did you catch the thief?   ##capture
+trust## This nucleus has captured the slow-moving neutrons   ##capture
+trust## The star captured a comet   ##capture
+trust## the invaders seized the land and property of the inhabitants   ##capture
+trust## The army seized the town   ##capture
+trust## The militia captured the castle   ##capture
+trust## I caught a rabbit in the trap today   ##capture
+trust## She caught her son eating candy   ##catch
+trust## She was caught shoplifting   ##catch
+trust## I caught the aroma of coffee   ##catch
+trust## He caught the allusion in her glance   ##catch
+trust## ears open to catch every sound   ##catch
+trust## The dog picked up the scent   ##catch
+trust## Catch a glimpse   ##catch
+trust## the rock caught her in the back of the head   ##catch
+trust## The blow got him in the back   ##catch
+trust## The punch caught him in the stomach   ##catch
+trust## Catch the ball!   ##catch
+trust## Grab the elevator door!   ##catch
+trust## One foot caught in the stirrup   ##catch
+trust## His look caught her   ##catch
+trust## She caught his eye   ##catch
+trust## Catch the attention of the waiter   ##catch
+trust## I have to catch a train at 7 o'clock   ##catch
+trust## Catch some sleep   ##catch
+trust## catch one's breath   ##catch
+trust## The Rolls Royce caught us near the exit ramp   ##catch
+trust## catch fire   ##catch
+trust## catch the mood   ##catch
+trust## She managed to catch herself before telling her boss what was on her mind   ##catch
+trust## We overheard the conversation at the next table   ##catch
+trust## view a show on television   ##catch
+trust## This program will be seen all over the world   ##catch
+trust## view an exhibition   ##catch
+trust## Catch a show on Broadway   ##catch
+trust## see a movie   ##catch
+trust## I caught the hem of my dress in the brambles   ##catch
+trust## The reporter tripped up the senator   ##catch
+trust## did you catch that allusion?   ##catch
+trust## We caught something of his theory in the lecture   ##catch
+trust## don't catch your meaning   ##catch
+trust## did you get it?   ##catch
+trust## She didn't get the joke   ##catch
+trust## I just don't get him   ##catch
+trust## did you catch a cold?   ##catch
+trust## The fire caught   ##catch
+trust## I didn't catch your name   ##catch
+trust## She didn't get his name when they met the first time   ##catch
+trust## She will catch hell for this behavior!   ##catch
+trust## She really caught the spirit of the place in her drawings   ##catch
+trust## She got the mood just right in her photographs   ##catch
+trust## We have a big barrel to catch the rainwater   ##catch
+trust## The fashion did not catch   ##catch
+trust## Who is catching?   ##catch
+trust## he caught her staring out the window   ##catch
+trust## I was caught in traffic and missed the meeting   ##catch
+joy## These paintings exalt the imagination   ##inspire
+joy## The article about the artist inspired the exhibition of his recent work   ##inspire
+joy## She prompted me to call my relatives   ##inspire
+joy## Inhale deeply   ##inspire
+joy## inhale the fresh mountain air   ##inspire
+joy## The patient has trouble inspiring   ##inspire
+joy## The lung cancer patient cannot inspire air very well   ##inspire
+joy## I urged him to finish his studies   ##urge
+joy## The travel agent recommended strongly that we not travel on Thanksgiving Day   ##urge
+joy## The crowd jeered at the speaker   ##barrack
+joy## A hot soup will revive me   ##recreate
+joy## This will renovate my spirits   ##recreate
+joy## This treatment repaired my health   ##recreate
+joy## On weekends I play   ##recreate
+joy## The students all recreate alike   ##recreate
+joy## she recreated the feeling of the 1920's with her stage setting   ##recreate
+joy## the medicine soothes the pain of the inflammation   ##soothe
+trust,fear## This matters to me!   ##interest
+trust,fear## She busies herself with her butterfly collection   ##occupy
+trust,fear## She resides in Princeton   ##occupy
+trust,fear## he occupies two rooms on the top floor   ##occupy
+trust,fear## The liquid fills the container   ##occupy
+trust,fear## Hitler invaded Poland on September 1, 1939   ##occupy
+trust,fear## It took three hours to get to work this morning   ##occupy
+trust,fear## This event occupied a very short time   ##occupy
+trust,fear## Her interest in butterflies absorbs her completely   ##occupy
+trust,fear## She took the job as director of development   ##occupy
+trust,fear## he occupies the position of manager   ##occupy
+trust,fear## the young prince will soon occupy the throne   ##occupy
+fear## My skin crawled--I was terrified   ##crawl
+fear## The old cheese was crawling with maggots   ##crawl
+fear## European children learn the breast stroke   ##crawl
+fear## she flinched when they showed the slaughtering of the calf   ##cringe
+fear## Heart disease can get the best of us   ##overcome
+disgust## I reject the idea of starting a war   ##reject
+disgust## The journal rejected the student's paper   ##reject
+disgust## He refused my offer of hospitality   ##reject
+disgust## I disapprove of her child rearing methods   ##reject
+disgust## His body rejected the liver of the donor   ##reject
+disgust## They turned away hundreds of fans   ##reject
+disgust## Black people were often rejected by country clubs   ##reject
+disgust## John was ruled out as a possible suspect because he had a strong alibi   ##reject
+disgust## This possibility can be eliminated from our consideration   ##reject
+disgust## repel the enemy   ##repel
+disgust## push back the urge to smoke   ##repel
+disgust## beat back the invaders   ##repel
+disgust## repel the attacker   ##repel
+disgust## fight off the onslaught   ##repel
+disgust## rebuff the attack   ##repel
+disgust## She snubbed his proposal   ##repel
+fear## The problems dwell in the social injustices in this country   ##dwell
+fear## People lived in Africa millions of years ago   ##dwell
+fear## The people inhabited the islands that are now deserted   ##dwell
+fear## this kind of fish dwells near the bottom of the ocean   ##dwell
+fear## deer are populating the woods   ##dwell
+fear## Strange notions inhabited her mind   ##dwell
+fear## Don't dwell on the past   ##dwell
+fear## She is always harping on the same old things   ##dwell
+joy## the earth's movement uplifted this part of town   ##uplift
+anger## The grocer dunned his customers every day by telephone   ##dun
+anger## dun codfish   ##dun
+joy## carry out a task   ##fulfill
+joy## execute the decision of the people   ##fulfill
+joy## He actioned the operation   ##fulfill
+disgust## Stew the vegetables in wine   ##stew
+sadness,anger## Too much rain may blight the garden with mold   ##plague
+anticipation## We can trust in God   ##trust
+anticipation## Rely on your friends   ##trust
+anticipation## bank on your good education   ##trust
+anticipation## I swear by my grandmother's recipes   ##trust
+anticipation## I believe that he will come back from the war   ##trust
+anticipation## The messenger was entrusted with the general's secret   ##trust
+anticipation## I commit my soul to God   ##trust
+anticipation## don't trust my ex-wife   ##trust
+anticipation## I want to go home now   ##desire
+anticipation## I want my own room   ##desire
+joy## Are you pulling my leg?   ##kid
+trust## enjoy privileges   ##enjoy
+trust## The industry enjoyed a boom   ##enjoy
+joy## He complimented her on her last physics paper   ##congratulate
+joy## Wallow in luxury   ##wallow
+joy## wallow in your sorrows   ##wallow
+joy## smoke billowed up into the sky   ##wallow
+joy## wallow in your success!   ##wallow
+fear## She vacated the position when she got pregnant   ##resign
+fear## The chairman resigned when he was found to have misappropriated funds   ##resign
+fear## The Secretary of the Navy will leave office next month   ##resign
+fear## The chairman resigned over the financial scandal   ##resign
+fear## I am relinquishing my bedroom to the long-term house guest   ##resign
+fear## resign a claim to the throne   ##resign
+fear## He resigned himself to his fate   ##resign
+fear## The lawyers submitted the material to the court   ##submit
+fear## I submit to you that the accused is guilty   ##submit
+fear## She likes to relegate difficult questions to her colleagues   ##submit
+fear## The government bowed to the military pressure   ##submit
+fear## We took a pay cut   ##submit
+fear## We put in a grant to the NSF   ##submit
+fear## They had to render the estate   ##submit
+fear## She dashed into the yard   ##dash
+fear## Smash a plate   ##dash
+fear## He dashed the plate against the wall   ##dash
+fear## Waves were dashing against the rock   ##dash
+fear## dashed ambitions and hopes   ##dash
+fear## blue paint dashed with white   ##dash
+anticipation## Touch the stone for good luck   ##touch
+anticipation## She never touched her husband   ##touch
+anticipation## Helen Keller felt the physical world by touching people and objects around her   ##touch
+anticipation## The two buildings touch   ##touch
+anticipation## Their hands touched   ##touch
+anticipation## The wire must not contact the metal cover   ##touch
+anticipation## The surfaces contact at this point   ##touch
+anticipation## I wouldn't touch her with a ten-foot pole   ##touch
+anticipation## The local Mafia won't touch gambling   ##touch
+anticipation## He touched his toes to the horse's flanks   ##touch
+anticipation## The sunlight reached the wall   ##touch
+anticipation## Can he reach?" "The chair must not touch the wall   ##touch
+anticipation## Nothing can rival cotton for durability   ##touch
+anticipation## Your performance doesn't even touch that of your colleagues   ##touch
+anticipation## Her persistence and ambition only matches that of her parents   ##touch
+anticipation## He alluded to the problem but did not mention it   ##touch
+anticipation## He could not touch the meaning of the poem   ##touch
+anticipation## She didn't touch her food all night   ##touch
+anticipation## her greying hair was tinged blond   ##touch
+anticipation## the leaves were tinged red in November   ##touch
+anticipation## his hands shook   ##shake
+anticipation## The old engine was juddering   ##shake
+anticipation## the ship was rocking   ##shake
+anticipation## the tall building swayed   ##shake
+anticipation## She rocked back and forth on her feet   ##shake
+anticipation## my faith has been shaken   ##shake
+anticipation## The bad news shook her hopes   ##shake
+anticipation## I couldn't shake the car that was following me   ##shake
+anticipation## He was shaken from his dreams   ##shake
+anticipation## shake the salt out of the salt shaker   ##shake
+anticipation## shake one's head   ##shake
+anticipation## She shook her finger at the naughty students   ##shake
+anticipation## The old enemies shook hands   ##shake
+anticipation## Don't shake your fist at me!   ##shake
+anticipation## incite a riot   ##instigate
+anticipation## set off great unrest among the people   ##instigate
+anticipation## She woke up to the sound of the alarm clock   ##wake
+anticipation## The ostentatious way of living of the rich ignites the hatred of the poor   ##wake
+anticipation## The refugees' fate stirred up compassion around the world   ##wake
+anticipation## Wake old feelings of hatred   ##wake
+anticipation## His words woke us to terrible facts of the situation   ##wake
+anticipation## He was roused by the drunken men in the street   ##wake
+anticipation## Please wake me at 6 AM.   ##wake
+anticipation## Great heat can ignite almost any dry matter   ##ignite
+anticipation## Light a cigarette   ##ignite
+anticipation## Marsh gases ignited suddenly   ##ignite
+anticipation## The oily rags combusted spontaneously   ##ignite
+anticipation## the sun heats the oceans   ##heat
+anticipation## heat the water on the stove   ##heat
+anticipation## heat the house   ##heat
+anticipation## The room heated up quickly   ##heat
+surprise## lodge a bullet in the table   ##stick
+surprise## stick your thumb in the crack   ##stick
+surprise## We are staying in Detroit   ##stick
+surprise## Stay put in the corner here!   ##stick
+surprise## Stick around and you will learn something!   ##stick
+surprise## Will this wallpaper adhere to the wall?   ##stick
+surprise## The door sticks--we will have to plane it   ##stick
+surprise## The label stuck to her for the rest of her life   ##stick
+surprise## The residents of this village adhered to Catholicism   ##stick
+surprise## She sticks to her principles   ##stick
+surprise## She stood by her husband in times of trouble   ##stick
+surprise## The friends stuck together through the war   ##stick
+surprise## stick some feathers in the turkey before you serve it   ##stick
+surprise## stick the poster onto the wall   ##stick
+surprise## stick the photo onto the corkboard   ##stick
+surprise## stick the corner of the sheet under the mattress   ##stick
+surprise## he stuck the cloth with the needle   ##stick
+surprise## He stuck the needle into his finger   ##stick
+surprise## The dress clings to her body   ##stick
+surprise## The label stuck to the box   ##stick
+surprise## The sushi rice grains cohere   ##stick
+surprise## She got a lot of paintings from her uncle   ##get
+surprise## They acquired a new pet   ##get
+surprise## Get your results the next day   ##get
+surprise## Get permission to take a few days off from work   ##get
+surprise## He became annoyed when he heard the bad news   ##get
+surprise## It must be getting more serious   ##get
+surprise## her face went red with anger   ##get
+surprise## She went into ecstasy   ##get
+surprise## Get going!   ##get
+surprise## He got his squad on the ball   ##get
+surprise## This let me in for a big surprise   ##get
+surprise## He got a girl into trouble   ##get
+surprise## These aspects of civilization do not find expression or receive an interpretation   ##get
+surprise## His movie received a good review   ##get
+surprise## I got nothing but trouble for my good intentions   ##get
+surprise## She arrived home at 7 o'clock   ##get
+surprise## She didn't get to Chicago until after midnight   ##get
+surprise## Get me those books over there, please   ##get
+surprise## Could you bring the wine?   ##get
+surprise## The dog fetched the hat   ##get
+surprise## get an idea   ##get
+surprise## experience vertigo   ##get
+surprise## get nauseous   ##get
+surprise## receive injuries   ##get
+surprise## have a feeling   ##get
+surprise## We'll get them!   ##get
+surprise## That'll fix him good!   ##get
+surprise## This time I got him   ##get
+surprise## Nicklaus had a 70   ##get
+surprise## The Brazilian team got 4 goals   ##get
+surprise## She made 29 points that day   ##get
+surprise## He grew a beard   ##get
+surprise## The patient developed abdominal pains   ##get
+surprise## I got funny spots all over my body   ##get
+surprise## Well-developed breasts   ##get
+surprise## He got AIDS   ##get
+surprise## She came down with pneumonia   ##get
+surprise## She took a chill   ##get
+surprise## Bill called this number and he got Mary   ##get
+surprise## The operator couldn't get Kobe because of the earthquake   ##get
+surprise## get someone mad   ##get
+surprise## She made us look silly   ##get
+surprise## He made a fool of himself at the meeting   ##get
+surprise## Don't make this into a big deal   ##get
+surprise## This invention will make you a millionaire   ##get
+surprise## Make yourself clear   ##get
+surprise## What are you driving at?   ##get
+surprise## What do you get when you add up these numbers?   ##get
+surprise## You cannot get water out of a stone   ##get
+surprise## Where did she get these news?   ##get
+surprise## What did you get at the toy store?   ##get
+surprise## He got 5 years in prison   ##get
+surprise## Scram!   ##get
+surprise## She got the bus just as it was leaving   ##get
+surprise## Her childish behavior really get to me   ##get
+surprise## His lying really gets me   ##get
+surprise## Brahms's `Requiem' gets me every time   ##get
+surprise## He drew a base on balls   ##get
+surprise## The ice storm got my hibiscus   ##get
+surprise## the cat got the goldfish   ##get
+surprise## We began working at dawn   ##get
+surprise## Who will start?   ##get
+surprise## Get working as soon as the sun rises!   ##get
+surprise## The first tourists began to arrive in Cambodia   ##get
+surprise## He began early in the day   ##get
+surprise## Let's get down to work now   ##get
+surprise## Abraham begot Isaac   ##get
+surprise## Men often father children but don't recognize them   ##get
+surprise## We puzzled over her sudden departure   ##puzzle
+surprise## Thugs beat him up when he walked down the street late at night   ##beat
+surprise## The teacher used to beat the students   ##beat
+surprise## beat on the door   ##beat
+surprise## beat the table with his shoe   ##beat
+surprise## Her heart was beating fast   ##beat
+surprise## beat swords into ploughshares   ##beat
+surprise## Rain drummed against the windshield   ##beat
+surprise## The drums beat all night   ##beat
+surprise## The sun was beating down on us   ##beat
+surprise## The bird flapped its wings   ##beat
+surprise## The eagle beat its wings and soared high into the sky   ##beat
+surprise## The boat beat in the strong wind   ##beat
+surprise## beat the egg whites   ##beat
+surprise## beat the cream   ##beat
+surprise## beat one's breast   ##beat
+surprise## beat one's foot rhythmically   ##beat
+surprise## Reading beats watching television   ##beat
+surprise## This sure beats work!   ##beat
+surprise## beat the subway fare   ##beat
+surprise## the clocks were ticking   ##beat
+surprise## the grandfather clock beat midnight   ##beat
+surprise## The bird's wings were flapping   ##beat
+surprise## Beat the rhythm   ##beat
+surprise## beat a path through the forest   ##beat
+surprise## beat the drum   ##beat
+surprise## I beat the traffic   ##beat
+surprise## She outfoxed her competitors   ##beat
+surprise## This kind of work exhausts me   ##beat
+surprise## I'm beat   ##beat
+surprise## He was all washed up after the exam   ##beat
+surprise## This poses an interesting question   ##pose
+surprise## We don't know the woman who posed for Leonardo so often   ##pose
+surprise## She posed as the Czar's daughter   ##pose
+surprise## Don't pay any attention to him--he is always posing to impress his peers!   ##pose
+surprise## She postured and made a total fool of herself   ##pose
+surprise## Put your things here   ##pose
+surprise## Set the tray down   ##pose
+surprise## Set the dogs on the scent of the missing children   ##pose
+surprise## Place emphasis on a certain point   ##pose
+disgust## She is pouting because she didn't get what she wanted   ##sulk
+disgust## mop and mow   ##pout
+disgust## The girl pouted   ##pout
+disgust## He oscillates between accepting the new position and retirement   ##hover
+disgust## The shy student lingered in the corner   ##hover
+disgust## The guru claimed that he could levitate   ##hover
+disgust## The terrible vision brooded over her all day long   ##hover
+disgust## Another air plane loomed into the sky   ##loom
+disgust## The huge sculpture predominates over the fountain   ##loom
+disgust## Large shadows loomed on the canyon wall   ##loom
+disgust## materials loomed in Egypt   ##loom
+joy## We were approaching our destination   ##near
+joy## They are drawing near   ##near
+joy## The enemy army came nearer and nearer   ##near

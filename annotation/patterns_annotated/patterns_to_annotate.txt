@@ -1,0 +1,259 @@
+Annotation of emotions
+Please annotate the following expressions with the most closely associated emotion and its degree among the following:
+Joy, trust, fear, surprise, sadness, disgust, anger, and anticipation.
+Please keep Plutchik's wheel of emotions (http://www.fractal.org/Bewustzijns-Besturings-Model/Plutchikfig6.gif) visible while undertaking this task to assist you in differentiating the emotions.
+Please also specify the degree of emotion on Plutchik's wheel like this: joy_I (inner wheel), joy_II (middle wheel), joy_III (outer wheel).
+If an expression clearly pertains to only emotion, assign just one. If no emotion can be clearly associated with an expression, label it with 'none'. If you associate two emotions with an expression, assign the most and the second-most closely associated emotion. Delimit expressions and emotions with tabs.
+E.g. funfair   joy_II
+pessimist  sadness_III fear_III
+Please annotate only the first 30-40 patterns at the beginning. After these, we will meet briefly to discuss problems and ambiguities. Thank you for your time!
+
+expression	1st emotion	(2nd emotion)
+annoy
+nettle
+shock
+transcendence
+intimidate
+count on
+deplore
+happily
+aspire to
+dawn
+be sad that
+be amaze that
+fulfill
+appeal
+be anxious that
+delight
+guerilla
+horrify
+fret about
+cheer
+worry about
+coercion
+concern
+amaze
+fear that
+irreconcilable
+be unhappy about
+renovation
+grate
+unnerve
+confuse
+livid
+be happy about
+be irate that
+incredulous
+trust that
+crave
+enchant
+await
+long for
+harass
+be encourage that
+devastate
+regularity
+expect
+comfort
+be unhappy about
+vex
+be afraid of
+be frightened that
+arouse
+boisterous
+enjoy
+be enthusiastic about
+mourn that
+rattle
+agonize over
+anticipate
+be hopeful that
+surprise
+afflict
+insult
+covet
+impress
+delivery
+disappoint
+enrage
+torment
+offend
+predict that
+scorn
+be elate that
+trash
+humiliate
+futile
+upset
+be angry about
+be incense that
+be ashamed of
+amuse
+repel
+envy
+alarm
+be angry with
+please
+cyst
+pine for
+sour
+despise
+toxin
+conscientious
+bother
+be satisfy that
+aspire
+be apprehensive about
+exacerbate
+be ecstatic that
+be proud of
+satisfy
+excite
+be unhappy that
+slayer
+spotless
+mourn
+shun
+stroke
+prepare for
+loathe
+be angry at
+hunger for
+thrill
+be thrill that
+be alarm that
+hope for
+baffle
+confound
+hope for
+be eager for
+predict
+rejoice
+fear
+regret that
+startle
+be afraid that
+provoke
+count on
+take comfort in
+be anxious about
+ache for
+trouble
+frustrate
+collapse
+creature
+abhor
+expect that
+wow
+outrage
+stun
+be scared that
+hate
+look forward to
+be intent on
+be optimistic that
+forecast that
+gall
+eradication
+aggravate
+reassure
+be reassure that
+be scared of
+be sadden that
+convent
+be stun that
+soothe
+be disappoint that
+savor
+be curious about
+depress
+be angry that
+puzzle
+swerve
+fascinate
+take pleasure in
+rely on
+superstition
+be bewilder that
+shame
+glide
+disgust
+be curious about
+excitement
+disdain
+discourage
+sting
+captivate
+experienced
+achieve
+regret
+calm
+dread
+relish
+heyday
+worry
+infuriate
+boggle
+irritate
+foresee
+be nervous about
+be proud of
+disappoint
+enjoy that
+be scare that
+breakup
+overwhelm
+be happy about
+spook
+inflame
+be mad about
+intrigue
+desire
+alienate
+grotesque
+be flabbergast that
+grieve that
+scare
+dislike
+be lucky that
+paralyzed
+disturb
+encourage
+trust
+quagmire
+idiotic
+duplicity
+embarrass
+prepare for
+felicity
+terrify
+yearn for
+frighten
+serpent
+captivate
+irreparable
+clean
+bonus
+honesty
+stagger
+charm
+forecast
+diamond
+look forward to
+rankle
+await
+hate that
+be terrify that
+abandon
+irk
+scum
+displease
+entertain
+
+Final question: Do the following sentences correspond with the sentiments you marked? Indicate yes/no.
+rely on: Most big managed care plans rely on advice from panels of medical experts to recommend acceptance or rejection of new technology .
+look forward to: I support a hefty tax cut , and I look forward to working with the members of the House and Senate .
+overwhelm: Two years ago , he overwhelmed Augusta National , but that happens perhaps once in a lifetime because Augusta is too canny and cunning .
+expect: He said he expects the subscriber levels to grow now that AT&T has assumed control of the cable company .
+regret that: He also said he regrets that China has failed to open talks with the Dalai Lama , the exiled spiritual leader of Tibet .
+

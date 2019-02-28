@@ -1,0 +1,111 @@
+joy## he ran bang into the pole   ##bang
+joy## ran slap into her   ##bang
+joy## hit him flush in the face   ##flush
+joy## set it flush with the top of the table   ##flush
+surprise,fear## terribly interesting   ##awful
+surprise,fear## I'm awful sorry   ##awful
+trust## He spoke kindly to the boy   ##kindly
+trust## she kindly overlooked the mistake   ##kindly
+joy## as the wedding day drew near   ##close
+joy## stood near the door   ##close
+joy## don't shoot until they come near   ##close
+joy## getting near to the true explanation   ##close
+joy## her mother is always near   ##close
+joy## The end draws nigh   ##close
+joy## the bullet didn't come close   ##close
+joy## don't get too close to the fire   ##close
+joy## he remained close on his guard   ##close
+sadness## don't fall down   ##down
+sadness## rode the lift up and skied down   ##down
+sadness## prices plunged downward   ##down
+sadness## was sent down to work at the regional office   ##down
+sadness## worked down on the farm   ##down
+sadness## came down for the wedding   ##down
+sadness## flew down to Florida   ##down
+sadness## put ten dollars down on the necklace   ##down
+sadness## the story was passed down from father to son   ##down
+sadness## he slowly phased down the light until the stage was completely black   ##down
+sadness## the factory went down during the strike   ##down
+sadness## the computer went down again   ##down
+sadness## the branches hung low   ##low
+trust## warmly dressed   ##warm
+trust## warm-clad skiers   ##warm
+joy## pretty big   ##jolly
+joy## pretty bad   ##jolly
+joy## jolly decent of him   ##jolly
+joy## the shoes are priced reasonably   ##jolly
+joy## he is fairly clever with computers   ##jolly
+sadness## the injury hurt badly   ##bad
+sadness## the buildings were badly shaken   ##bad
+sadness## it hurts bad   ##bad
+sadness## we need water bad   ##bad
+sadness## I wanted it badly enough to work hard for it   ##bad
+sadness## the cables had sagged badly   ##bad
+sadness## they were badly in need of help   ##bad
+sadness## he wants a bicycle so bad he can taste it   ##bad
+surprise## she was very gifted   ##rattling
+surprise## he played very well   ##rattling
+surprise## a really enjoyable evening   ##rattling
+surprise## I'm real sorry about it   ##rattling
+surprise## a rattling good yarn   ##rattling
+surprise## her voice is superbly disciplined   ##wondrous
+surprise## the colors changed wondrously slowly   ##wondrous
+trust## the children's responses were admirably normal   ##commendable
+anger## he angrily denied the accusation   ##angrily
+fear## we watched anxiously   ##anxiously
+joy## he cheerfully agreed to do it   ##cheerfully
+joy## the job is (just) about done   ##near
+joy## the baby was almost asleep when the alarm sounded   ##near
+joy## we're almost finished   ##near
+joy## the car all but ran her down   ##near
+joy## he nearly fainted   ##near
+joy## talked for nigh onto 2 hours   ##near
+joy## the recording is well-nigh perfect   ##near
+joy## virtually all the parties signed the contract   ##near
+joy## I was near exhausted by the run   ##near
+joy## most everyone agrees   ##near
+joy## he works comfortably on three continents   ##comfortably
+joy## she could have been lying comfortably in bed getting the same relief   ##comfortably
+joy## They live well   ##comfortably
+joy## she has been able to live comfortably since her husband died   ##comfortably
+disgust## he guarded his privacy jealously   ##jealously
+disgust## he looked at his friend's new car jealously   ##jealously
+disgust## the beggar was disgustingly filthy   ##disgustingly
+fear## his ignorance was painfully obvious   ##painfully
+fear## she moved painfully forward   ##painfully
+fear## sorely wounded   ##painfully
+joy## the news was eagerly awaited   ##eagerly
+disgust## the great man was embarrassingly humble and self-effacing   ##embarrassingly
+joy## they discussed the question enthusiastically   ##enthusiastically
+joy## he extolled her virtues sky-high   ##enthusiastically
+joy## they shouted happily   ##happily
+joy## happily he was not injured   ##happily
+joy## hilariously funny   ##hilariously
+anticipation## we searched hopefully for a good position   ##hopefully
+anticipation## hopefully the weather will be fine on Sunday   ##hopefully
+fear## the papers were hopelessly jumbled   ##hopelessly
+fear## he is hopelessly romantic   ##hopelessly
+fear## the first Mozartian opera to be subjected to this curious treatment ran dispiritedly for five performances   ##hopelessly
+fear## he hung his head hopelessly   ##hopelessly
+fear## `I must die,' he said hopelessly   ##hopelessly
+fear## he laughed horrifyingly   ##horrifyingly
+fear## there was a dreadfully bloody accident on the road this morning   ##dreadfully
+fear## as he looks at the mess he has left behind he must wonder how the Brits so often managed to succeed in the kind of situation where he has so dismally failed   ##dreadfully
+fear## she sings terribly   ##awfully
+fear## her face was hideously disfigured after the accident   ##hideously
+fear## she screamed hysterically when she heard the news   ##hysterically
+fear## he answered her impatiently   ##impatiently
+trust## she spoke to her children fondly   ##fondly
+trust## the toddler behaved adorably   ##adorably
+disgust## she answered maliciously   ##maliciously
+disgust## when the restaurant caught fire the patrons ran amuck, blocking the exit   ##amok
+disgust## rioters running amuck and throwing sticks and bottles and stones   ##amok
+joy## he walked proudly into town   ##proudly
+sadness## sadly he died before he could see his grandchild   ##sadly
+sadness## `She died last night,' he said sadly   ##sadly
+sadness## he was sadly neglected   ##sadly
+sadness## it was woefully inadequate   ##sadly
+fear## the disturbing thing about the Minister's behavior is that far from being artificial, it too often rings frighteningly true   ##frighteningly
+disgust## his grades were disgracefully low   ##shamefully
+surprise## amazingly, he finished medical school in three years   ##amazingly
+surprise## he was surprisingly friendly   ##surprisingly

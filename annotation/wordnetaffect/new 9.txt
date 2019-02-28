@@ -1,0 +1,351 @@
+fear## he ran bang into the pole   ##bang
+anger## ran slap into her   ##bang
+anger## hit him flush in the face   ##flush
+joy## set it flush with the top of the table   ##flush
+surprise,fear## terribly interesting   ##awful
+surprise,fear## I'm awful sorry   ##awful
+trust## He spoke kindly to the boy   ##kindly
+disgust,joy## she kindly overlooked the mistake   ##kindly
+joy## as the wedding day drew near   ##close
+joy## stood near the door   ##close
+joy,fear## don't shoot until they come near   ##close
+joy,trust## getting near to the true explanation   ##close
+joy,trust## her mother is always near   ##close
+trust## The end draws nigh   ##close
+trust## the bullet didn't come close   ##close
+trust,fear## don't get too close to the fire   ##close
+trust,fear## he remained close on his guard   ##close
+fear## don't fall down   ##down
+frust## rode the lift up and skied down   ##down
+sadness,fear## prices plunged downward   ##down
+trust## was sent down to work at the regional office   ##down
+trust## worked down on the farm   ##down
+joy## came down for the wedding   ##down
+trust## flew down to Florida   ##down
+sadness## put ten dollars down on the necklace   ##down
+trust## the story was passed down from father to son   ##down
+fear## he slowly phased down the light until the stage was completely black   ##down
+sadness,surprise## the factory went down during the strike   ##down
+sadness,surprise## the computer went down again   ##down
+sadness,surprise## the branches hung low   ##low
+trust## warmly dressed   ##warm
+trust## warm-clad skiers   ##warm
+joy## pretty big   ##jolly
+sedness## pretty bad   ##jolly
+joy,trust## jolly decent of him   ##jolly
+joy## the shoes are priced reasonably   ##jolly
+trust,joy## he is fairly clever with computers   ##jolly
+sadness,surprise## the injury hurt badly   ##bad
+sadness,fear## the buildings were badly shaken   ##bad
+sadness,anticipation## it hurts bad   ##bad
+sadness,anticipation## we need water bad   ##bad
+sadness,anticipation## I wanted it badly enough to work hard for it   ##bad
+sadness## the cables had sagged badly   ##bad
+sadness,surprise## they were badly in need of help   ##bad
+sadness,anticipation## he wants a bicycle so bad he can taste it   ##bad
+joy,surprise## she was very gifted   ##rattling
+surprise,joy## he played very well   ##rattling
+surprise,joy## a really enjoyable evening   ##rattling
+surprise,sedness## I'm real sorry about it   ##rattling
+surprise,joy## a rattling good yarn   ##rattling
+trust,joy## her voice is superbly disciplined   ##wondrous
+surprise,joy## the colors changed wondrously slowly   ##wondrous
+trust,joy## the children's responses were admirably normal   ##commendable
+anger## he angrily denied the accusation   ##angrily
+fear,anticipation## we watched anxiously   ##anxiously
+joy,surprise## he cheerfully agreed to do it   ##cheerfully
+joy## the job is (just) about done   ##near
+surprise## the baby was almost asleep when the alarm sounded   ##near
+joy,anticipation## we're almost finished   ##near
+joy,anticipation## the car all but ran her down   ##near
+joy,anticipation## he nearly fainted   ##near
+surprise## talked for nigh onto 2 hours   ##near
+joy## the recording is well-nigh perfect   ##near
+joy,surprise## virtually all the parties signed the contract   ##near
+joy,surprise## I was near exhausted by the run   ##near
+sedness,surprise## most everyone agrees   ##near
+joy,surprise## he works comfortably on three continents   ##comfortably
+sedness,surprise## she could have been lying comfortably in bed getting the same relief   ##comfortably
+joy## They live well   ##comfortably
+joy,surprise## she has been able to live comfortably since her husband died   ##comfortably
+disgust,anticipation## he guarded his privacy jealously   ##jealously
+disgust,anticipation## he looked at his friend's new car jealously   ##jealously
+disgust## the beggar was disgustingly filthy   ##disgustingly
+fear## his ignorance was painfully obvious   ##painfully
+anger,joy## she moved painfully forward   ##painfully
+fear,sedness## sorely wounded   ##painfully
+joy,anticipation## the news was eagerly awaited   ##eagerly
+disgust,fear## the great man was embarrassingly humble and self-effacing   ##embarrassingly
+joy,trust## they discussed the question enthusiastically   ##enthusiastically
+joy,trust## he extolled her virtues sky-high   ##enthusiastically
+joy## they shouted happily   ##happily
+joy## happily he was not injured   ##happily
+joy## hilariously funny   ##hilariously
+anticipation,joy## we searched hopefully for a good position   ##hopefully
+anticipation,joy## hopefully the weather will be fine on Sunday   ##hopefully
+disgust## the papers were hopelessly jumbled   ##hopelessly
+fear,joy## he is hopelessly romantic   ##hopelessly
+sedness,surprise## the first Mozartian opera to be subjected to this curious treatment ran dispiritedly for five performances   ##hopelessly
+fear,disgust## he hung his head hopelessly   ##hopelessly
+fear,sedness## `I must die,' he said hopelessly   ##hopelessly
+anger,sedness## he laughed horrifyingly   ##horrifyingly
+fear,sedness## there was a dreadfully bloody accident on the road this morning   ##dreadfully
+fear,surprise## as he looks at the mess he has left behind he must wonder how the Brits so often managed to succeed in the kind of situation where he has so dismally failed   ##dreadfully
+disgust,surprise## she sings terribly   ##awfully
+fear,surprise## her face was hideously disfigured after the accident   ##hideously
+sedness,surprise## she screamed hysterically when she heard the news   ##hysterically
+disgust,anticipation## he answered her impatiently   ##impatiently
+joy,anger## she spoke to her children fondly   ##fondly
+trust,joy## the toddler behaved adorably   ##adorably
+disgust## she answered maliciously   ##maliciously
+disgust## when the restaurant caught fire the patrons ran amuck, blocking the exit   ##amok
+disgust,fear## rioters running amuck and throwing sticks and bottles and stones   ##amok
+joy,anger## he walked proudly into town   ##proudly
+sadness## sadly he died before he could see his grandchild   ##sadly
+sadness## `She died last night,' he said sadly   ##sadly
+sadness## he was sadly neglected   ##sadly
+sadness,disgust## it was woefully inadequate   ##sadly
+fear## the disturbing thing about the Minister's behavior is that far from being artificial, it too often rings frighteningly true   ##frighteningly
+disgust,sedness## his grades were disgracefully low   ##shamefully
+surprise,joy## amazingly, he finished medical school in three years   ##amazingly
+surprise,joy## he was surprisingly friendly   ##surprisingly
+fear,trust## Many teenagers idolized the Beatles   ##worship
+fear,trust## Many Hindus worship Shiva   ##worship
+fear,trust## They worship in the traditional manner   ##worship
+surprise,joy## He wondered who had built this beautiful church   ##wonder
+surprise,trust## I wonder whether this was the right thing to do   ##wonder
+surprise## she wondered whether it would snow tonight   ##wonder
+surprise,trust,joy## We marvelled at the child's linguistic abilities   ##wonder
+sadness,surprise## He biased his presentation so as to please the share holders   ##weight
+joy,surprise## The champion prevailed, though it was a hard fight   ##triumph
+joy,anticipation## Who cannot exult in Spring?   ##triumph
+surprise,trust## The news really surprised me   ##surprise
+surprise,trust## She surprised the couple   ##surprise
+surprise,trust## He surprised an interesting scene   ##surprise
+anticipation## stir the soup   ##stir
+anticipation## stir my drink   ##stir
+anticipation## stir the soil   ##stir
+anticipation## He shifted in his seat   ##stir
+anticipation## stimulate my appetite   ##stir
+anticipation## excite the audience   ##stir
+anticipation## stir emotions   ##stir
+anticipation,fear## These stories shook the community   ##stir
+anticipation,fear## the civil war shook the country   ##stir
+anticipation## A stirring movie   ##stir
+anticipation## I was touched by your kind letter of sympathy   ##stir
+anticipation## raise the specter of unemployment   ##stir
+anticipation## he conjured wild birds in the air   ##stir
+anticipation## call down the spirits from the mountain   ##stir
+anticipation## Stir nuts into the dough   ##stir
+sadness,surprise## I regret I can't come to the party   ##regret
+sadness,surprise## I regret to say that you did not gain admission to Harvard   ##regret
+fear## He sank to his knees   ##sinking
+fear,surprise## The Japanese sank American ships in Pearl Harbor   ##sinking
+fear## He sank into nirvana   ##sinking
+fear## He sank into bed   ##sinking
+fear## She subsided into the chair   ##sinking
+fear## The sun dipped below the horizon   ##sinking
+fear## The setting sun sank below the tree line   ##sinking
+fear## The real estate market fell off   ##sinking
+fear## He slumped onto the couch   ##sinking
+fear## My spirits sank   ##sinking
+fear## She sank her fingers into the soft sand   ##sinking
+fear,joy## He buried his head in her lap   ##sinking
+disgust,fear## he dishonored his family by committing a serious crime   ##shame
+disgust,fear## She shamed him into making amends   ##shame
+fear,trust## The police are shadowing her   ##shadow
+fear,disgust## This year's debt dwarfs that of last year   ##shadow
+fear## The stranger who hangs around the building frightens me   ##scare
+fear## Ghosts could never affright her   ##scare
+fear## dashed by the refusal   ##scare
+anticipation,fear## I fear she might get aggressive   ##fear
+anticipation,fear## I fear the winters in Moscow   ##fear
+anticipation,fear## We should not fear the Communists!   ##fear
+anticipation,fear## I fear I won't make it to your wedding party   ##fear
+anticipation,fear## I fear the results of the final exams   ##fear
+trust,fear## Fear God as your father   ##fear
+surprise,joy## We venerate genius   ##fear
+surprise,anger## The famous professor awed the undergraduates   ##awe
+fear,joy## The last Taleban fighters finally surrendered   ##surrender
+fear,anticipation## The squatters had to surrender the building after the police moved in   ##surrender
+
+disgust,anger## It galls me that we lost the suit   ##gall
+trust,anticipation## She views this quite differently from me   ##regard
+trust,anticipation## I consider her to be shallow   ##regard
+trust,anticipation,joy## I don't see the situation quite as negatively as you do   ##regard
+trust,anticipation## This new ruling affects your business   ##regard
+trust## I respect his judgement   ##respect
+trust,joy## We prize his creativity   ##respect
+trust,joy## honor your parents!   ##respect
+trust,sedness,anticipation## The government oppresses political activists   ##crush
+trust,sedness## crush an aluminum can   ##crush
+trust,sedness## squeeze a lemon   ##crush
+surprise,joy## Agassi beat Becker in the tennis championship   ##crush
+surprise,joy## We beat the competition   ##crush
+trust,sedness## Harvard defeated Yale in the last football game   ##crush
+trust,sedness## The car crushed the toy   ##crush
+trust,sedness## She was crushed by his refusal of her invitation   ##crush
+trust,sedness## The death of her son smashed her   ##crush
+trust## jam a toe   ##crush
+trust## Martin Luther King tried to break down racial discrimination   ##crush
+trust,sedness## The plastic bottle crushed against the wall   ##crush
+joy,anger## He prides himself on making it into law school   ##pride
+trust,anger## Can you taste the garlic?   ##taste
+trust,anticipation## Try these new crackers   ##taste
+trust,anticipation## Sample the regional dishes   ##taste
+trust## This tastes of nutmeg   ##taste
+trust## We tasted wines last night   ##taste
+trust## The ex-slave tasted freedom shortly before she died   ##taste
+anger## Her tactless remark offended me   ##pique
+anger## temper glass   ##temper
+anger## temper steel   ##temper
+anger## she tempered her criticism   ##temper
+fear,surprise## The students panicked when told that final exams were less than a week away   ##panic
+fear,surprise## The mere thought of an isolation cell panicked the prisoners   ##panic
+disgust,sedness,anger## She hurt me when she did not include me among her guests   ##spite
+disgust,anger,sedness## This remark really bruised my ego   ##spite
+trust,anger,joy## I really care about my work   ##caring
+trust,anger## I don't care   ##caring
+trust## The nurse was caring for the wounded   ##caring
+surprise,anticipation## Do you care to try this dish?   ##caring
+surprise,anticipation## Would you like to come along to the movies?   ##caring
+trust,anticipation## I can deal with this crew of workers   ##caring
+trust,disgust## This blender can't handle nuts   ##caring
+surprise,joy## She managed her parents' affairs after they got too old   ##caring
+trust,fear## I worry about my grades   ##caring
+joy,trust## I love French food   ##love
+joy,trust## She loves her boss and works hard for him   ##love
+joy,trust## I love cooking   ##love
+joy,trust## She loves her husband deeply   ##love
+joy,trust## This student sleeps with everyone in her dorm   ##love
+joy,trust## Adam knew Eve   ##love
+joy,trust,anger## Were you ever intimate with this man?   ##love
+trust,joy## I like jogging   ##liking
+trust,joy## She likes to read Russian novels   ##liking
+trust## I like my nephews   ##liking
+trust## How did you like the President's speech last night?   ##liking
+trust## I'd like a beer now!   ##liking
+anger,disgust## The scandalous behavior of this married woman shocked her friends   ##outrage
+anger,disgust## desecrate a cemetery   ##outrage
+anger,disgust## violate the sanctity of the church   ##outrage
+anger,disgust## profane the name of God   ##outrage
+anger,disgust## The woman was raped on her way home at night   ##outrage
+anticipation,trust## I trust you will behave better from now on   ##hope
+anticipation,trust## I hope she understands that she cannot expect a raise   ##hope
+anticipation,trust## I am still hoping that all will turn out well   ##hope
+anticipation## I hope to have finished this work by tomorrow evening   ##hope
+disgust## I hate Mexican food   ##hate
+disgust## She detests politicians   ##hate
+anger,disgust## The children tormented the stuttering teacher   ##torment
+anger,disgust## The sinners will be tormented in Hell, according to the Bible   ##torment
+joy,surprise## She relished her fame and basked in her glory   ##relish
+disgust,surprise## The home team scored many times   ##score
+disgust## He hit a home run   ##score
+joy## He hit .300 in the past season   ##score
+disgust## score the clay before firing it   ##score
+joy,surprise## Harry finally seduced Sally   ##score
+trust,surprise## Did you score last night?   ##score
+disgust## Harry made Sally   ##score
+surprise## She scored high on the SAT   ##score
+surprise## He scored a 200   ##score
+surprise## grade tests   ##score
+surprise## score the SAT essays   ##score
+surprise## mark homework   ##score
+anger## Rage against the dying of the light!   ##rage
+anticipation,fear,joy## The children are shivering--turn on the heat!   ##shiver
+anticipation,fear,joy## The news of the city's surrender chilled the soldiers   ##chill
+anticipation,fear,joy## Chill the food   ##chill
+anticipation,fear,joy## The air cooled considerably after the thunderstorm   ##chill
+anticipation,fear,joy## His nostrils palpitated   ##quiver
+anticipation,fear,joy## the candle flickered   ##quiver
+anticipation,fear,joy## the city pulsated with music and excitement   ##quiver
+anticipation,fear,joy## The men were thrilled by a loud whistle blow   ##thrill
+anticipation,fear,joy## he was thrilled by the speed and the roar of the engine   ##thrill
+anticipation,fear,joy## The children were thrilled at the prospect of going to the movies   ##thrill
+anticipation,fear,joy## He was inebriated by his phenomenal success   ##thrill
+trust,fear## I can't see him on horseback!   ##fancy
+trust,fear## I can see what will happen   ##fancy
+trust,fear## I can see a risk in this strategy   ##fancy
+trust,fear## She fancied a necklace that she had seen in the jeweler's window   ##fancy
+joy,anticipation## This suits my needs   ##fit
+anger,anticipation## This piece won't fit into the puzzle   ##fit
+trust,anticipation## Does this paper meet the requirements for the degree?   ##fit
+anticipation## fit a dress   ##fit
+anger## He fitted other pieces of paper to his cut-out   ##fit
+anger,disgust## Can you fit the toy into the box?   ##fit
+anger,anticipation## This man can't fit himself into our work environment   ##fit
+anger,anticipation## The two stories don't agree in many details   ##fit
+anger,anticipation## The handwriting checks with the signature on the check   ##fit
+anger,joy,anticipation## The suspect's fingerprints don't match those on the gun   ##fit
+anger,joy## How does this shirt fit?   ##fit
+anger,anticipation## The expedition was equipped with proper clothing, food, and other necessities   ##fit
+anger## Match my sweater   ##fit
+trust## he favors his second daughter   ##favor
+trust## The local team was favored   ##favor
+fear,trust## I worry about my job   ##worry
+fear,trust## I cannot sleep--my daughter's health is worrying me   ##worry
+fear,trust## I worry about the second Germanic consonant shift   ##worry
+fear,trust## the dog worried his bone   ##worry
+fear,trust## The old man worried his beads   ##worry
+fear,trust## This book upset me   ##trouble
+fear,trust## A troubling thought   ##trouble
+fear,trust## Sorry to trouble you, but...   ##trouble
+fear,trust## She was rather perturbed by the news that her father was seriously ill   ##trouble
+fear,trust## He did not trouble to call his mother on her birthday   ##trouble
+fear,trust## Don't bother, please   ##trouble
+fear,trust## I really dislike this salesman   ##dislike
+fear,surprise## This spoilt food disgusts me   ##disgust
+fear,trust## The pornographic pictures sickened us   ##disgust
+sadness,fear## These news depressed her   ##dismay
+sadness,fear## The bad state of her child's health demoralizes her   ##dismay
+sadness,fear## I was horrified at the thought of being late for my interview   ##dismay
+sadness,fear## The news of the executions horrified us   ##dismay
+fear,trust## Don't despair--help is on the way!   ##despair
+fear## The crocodile was crawling along the riverbed   ##creeps
+fear,anticipation## ..stead of sneaking around spying on the neighbor's house   ##creeps
+fear,trust## ivy crept over the walls of the university buildings   ##creeps
+disgust## He despises the people he has to work for   ##disdain
+disgust## The professor scorns the students who don't catch on immediately   ##disdain
+disgust## She spurned his advances   ##disdain
+fear,trust## There were lots of questions referring to her talk   ##concern
+fear,trust## My remark pertained to your earlier comments   ##concern
+fear## Too much spicy food cloyed his appetite   ##pall
+fear## pall the beer   ##pall
+fear## wine and beer can pall   ##pall
+fear## the course palled on her   ##pall
+anger## I'm so tired of your mother and her complaints about my food   ##pall
+joy## This book belongs to me   ##belonging
+sedness## This student somehow doesn't belong   ##belonging
+joy,anticipation## Where do these books belong?   ##belonging
+trust## Let's put health care where it belongs--under the control of the government   ##belonging
+anticipation## Where do these books go?   ##belonging
+trust## The whales belong among the mammals   ##belonging
+anticipation,trust## They belong to the same political party   ##belonging
+anticipation,trust## the uniform looks like it belonged to a museum collection   ##belonging
+trust## These pages don't belong   ##belonging
+joy## slam the ball   ##bang
+anger## One of them banged the sash of the window nearest my bed   ##bang
+fear## He slammed the door shut   ##bang
+anger,disgust## The window banged shut   ##bang
+fear## The old man banged around the house   ##bang
+trust## Bullets spanged into the trees   ##bang
+trust## boot your computer   ##boot
+trust## he saw Jess charging at him with a pitchfork   ##charge
+anticipation,trust,fear## he charged the director with indifference   ##charge
+anticipation,fear## Will I get charged for this service?   ##charge
+sedness,fear## We were billed for 4 nights in the hotel, although we stayed only 3 nights   ##charge
+anger## The car tore down the street   ##charge
+joy## He came charging into my office   ##charge
+joy,surprise## He was appointed deputy manager   ##charge
+joy,surprise## She was charged with supervising the creation of a concordance   ##charge
+anger,anticipation## The suspect was charged with murdering his wife   ##charge
+disgust,anticipation## The defense attorney charged that the jurors were biased   ##charge
+anticipation## charge the wagon with hay   ##charge
+joy,surprise## he charged me $15   ##charge
+trust,sedness## After the second episode, she had to be committed   ##charge
+sedness## he was committed to prison   ##charge
+sedness## consign your baggage   ##charge
+anticipation## Will you pay cash or charge the purchase?   ##charge
+anticipation,trust## The speaker charged up the crowd with his inflammatory remarks   ##charge
+joy## charge all weapons, shields, and banners   ##charge
+trust## He loaded his gun carefully   ##charge
