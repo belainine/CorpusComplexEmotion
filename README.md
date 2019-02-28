@@ -4,7 +4,9 @@ Corpus with Complex Emotion using Plutshik theory
 
 # Dataset      Labels 
 
-EmoTxt1        joy, anger, sadness, love,surprise, fearPsychExp2joy, fear, anger, sadness,disgust, shame, guilt
+EmoTxt1        joy, anger, sadness, love,surprise, fear
+
+PsychExp       joy, fear, anger, sadness,disgust, shame, guilt
 
 DailyDialog    no emotion, anger, dis-gust, fear, happiness, sad-ness, surprise
 
