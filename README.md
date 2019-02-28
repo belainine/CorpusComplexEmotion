@@ -1,2 +1,2 @@
-# CorpusComplexEmotion
-Corpus of Complex Emotion with Plutshik theory
+# Corpus With Complex Emotion
+Corpus with Complex Emotion using Plutshik theory
