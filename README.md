@@ -37,3 +37,5 @@ To read the datasets you should use:
 1- Install WordNet:
 
 2- Execute the script: Python pickleToTxt.py
+
+3- All word and affect of WordNetAffct exist in wnaffectlemmas.txt
