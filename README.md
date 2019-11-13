@@ -10,10 +10,13 @@ The corpus is created by a mixture of several corpora, moreover, integrates seve
 the corpus contains 4 dataset, each contains the example and is parceled by a fraction of plutshk or with its inverse or with the absence of both emotions.
 For example: the dataset_anticipation_surprise.pickle dataset and Anticipation queries and its inverse Surprise or with the absense of both.
 
-dataset_anticipation_surprise.pickle	
-dataset_fear_anger.pickle	
-dataset_joy_sadness.pickle
-dataset_trust_disgust.pickle
+dataset_anticipation_surprise.pickle	: The dataset containt [anticipation,_surprise, Nan]
+
+dataset_fear_anger.pickle		: The dataset containt [fear_, anger, Nan]
+
+dataset_joy_sadness.pickle	: The dataset containt [joy, sadness, Nan]
+
+dataset_trust_disgust.pickle	: The dataset containt [trust_, disgust, Nan]
 
 ### Dataset      Labels 
 
