@@ -1,5 +1,5 @@
 # Corpus With Complex Emotion
-# Corpus with Complex Emotion using Plutshik theory
+## Corpus with Complex Emotion using Plutshik theory
 We propose a new textual and social corpus, the labeled corpus that uses basic emotions according to Plutchik's theory. This corpus used in the framework of proposed a first study for the representation and interpretation of complex emotional interactions, using deep neural networks.
 
 We propose a new textual and social corpus, the labeled corpus that uses basic emotions according to Plutchik's theory. This corpus was used in the framework of the first study for the representation and interpretation of complex emotional interactions, using deep neural networks.
@@ -14,8 +14,6 @@ dataset_anticipation_surprise.pickle
 dataset_fear_anger.pickle	
 dataset_joy_sadness.pickle
 dataset_trust_disgust.pickle
-
-The mixed corpora are:
 
 ### Dataset      Labels 
 
