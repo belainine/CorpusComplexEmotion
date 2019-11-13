@@ -7,7 +7,7 @@ The corpus is created by a mixture of several corpora, moreover, integrates seve
 
 ## The corpus contains 
 
-the corpus contains 4 dataset, each contains the example and is parceled by a fraction of plutshk or with its inverse or with the absence of both emotions.
+The corpus contains 4 dataset, each contains the example and is parceled by a fraction of plutshk or with its inverse or with the absence of both emotions.
 For example: the dataset_anticipation_surprise.pickle dataset and Anticipation queries and its inverse Surprise or with the absense of both.
 
 dataset_anticipation_surprise.pickle	: The dataset containt [anticipation,_surprise, Nan]
