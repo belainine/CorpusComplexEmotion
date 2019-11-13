@@ -29,3 +29,11 @@ DailyDialog    : no emotion, anger, dis-gust, fear, happiness, sad-ness, surpris
 NRC_Emotion_Lexicon && emotion_proposition_store : joy, fear, disgust, anger,sadness,  surprise,  trustand anticipation
 
 WordNetAffect : joy, fear, disgust, anger,sadness,  surprise,  trustand anticipation
+
+# Read dataset:
+
+To read the datasets you should use:
+
+1- Install WordNet:
+
+2- Execute the script: Python pickleToTxt.py
