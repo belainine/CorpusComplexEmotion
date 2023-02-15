@@ -42,10 +42,11 @@ To read the datasets you should use:
 
 ## Citation
 ```
-@inproceedings{felbo2017,
-  title={Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm},
-  author={Felbo, Bjarke and Mislove, Alan and S{\o}gaard, Anders and Rahwan, Iyad and Lehmann, Sune},
-  booktitle={Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year={2017}
+@inproceedings{belainine2020towards,
+  title={Towards a multi-dataset for complex emotions learning based on deep neural networks},
+  author={Belainine, Billal and Sadat, Fatiha and Boukadoum, Mounir and Lounis, Hakim},
+  booktitle={Proceedings of the Second Workshop on Linguistic and Neurocognitive Resources},
+  pages={50--58},
+  year={2020}
 }
 ```
