@@ -40,6 +40,51 @@ To read the datasets you should use:
 
 3- All word and affect of WordNetAffct exist in wnaffectlemmas.txt
 
+
+
+## Installation
+
+We assume that you're using [Python 3.5](https://www.python.org/downloads/) with [pip](https://pip.pypa.io/en/stable/installing/) installed.
+
+First you need to install [pyTorch (version 0.2+)](http://pytorch.org/), currently by:
+```bash
+conda install pytorch -c pytorch
+```
+When pyTorch is installed, unzip the file of complexemotions.zip, after that, run the following in the root directory to install the remaining dependencies:
+
+```bash
+pip install -e .
+```
+This will install the following dependencies:
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+* [text-unidecode](https://github.com/kmike/text-unidecode)
+* [emoji](https://github.com/carpedm20/emoji)
+
+Then, run the download script to downloads the pretrained torchMoji weights (~85MB) from [here](https://www.dropbox.com/s/q8lax9ary32c7t9/pytorch_model.bin?dl=0) and put them in the model/ directory:
+
+```bash
+python scripts/download_weights.py
+```
+## Trining
+To run trining, 
+
+python complexemotions\scripts\finetune_dataset_moji.py
+
+## Testing
+To run the tests, install [nose](http://nose.readthedocs.io/en/latest/). After installing, navigate to the [tests/](tests) directory and run:
+
+```bash
+cd tests
+nosetests -v
+```
+By default, this will also run finetuning tests. These tests train the model for one epoch and then check the resulting accuracy, which may take several minutes to finish. If you'd prefer to exclude those, run the following instead:
+
+```bash
+cd tests
+nosetests -v -a '!slow'
+```
+ 
+
 ## Citation
 ```
 @inproceedings{belainine2020towards,
