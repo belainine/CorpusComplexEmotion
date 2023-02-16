@@ -70,8 +70,8 @@ To run trining,
 ```bash
 python complexemotions\scripts\finetune_dataset_moji.py
 ```
-## Testing
-To run the tests, install [nose](http://nose.readthedocs.io/en/latest/). After installing, navigate to the [tests/](tests) directory and run:
+## Testing (To reproduce the result)
+To run the tests and reproduce the result, install [nose](http://nose.readthedocs.io/en/latest/). After installing, navigate to the [tests/](tests) directory and run:
 
 ```bash
 cd tests
