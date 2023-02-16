@@ -67,9 +67,9 @@ python scripts/download_weights.py
 ```
 ## Trining
 To run trining, 
-
+```bash
 python complexemotions\scripts\finetune_dataset_moji.py
-
+```
 ## Testing
 To run the tests, install [nose](http://nose.readthedocs.io/en/latest/). After installing, navigate to the [tests/](tests) directory and run:
 
